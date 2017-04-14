@@ -4,9 +4,8 @@
 
 *   [Classes](Classes.md)
 *   [Factions](Factions.md)
-*   [Guides](Guides.md)
 *   [In-game events](In-game_events.md)
-*   [Instances by level](Instances_by_level.md)
+*   [Instances](Instances.md)
 *   [Mounts](Mounts.md)
 *   [Patches](Patches.md)
 *   [Races](Races.md)
@@ -16,6 +15,8 @@
 *   [Addons Collection](https://github.com/wowgame/addons-335a-collection)
 
 ### Various
+
+*   [DBC_File](DBC_File.md)
 
 *   [Read more about wotlk-wiki](../README.md)
 
