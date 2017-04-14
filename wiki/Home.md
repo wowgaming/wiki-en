@@ -14,6 +14,10 @@
 
 *   [Addons Collection](https://github.com/wowgame/addons-335a-collection)
 
+*   [Addons](Addons.md)
+
+*   [Addons List](Addons_List.md)
+
 ### Various
 
 *   [DBC_File](DBC_File.md)
