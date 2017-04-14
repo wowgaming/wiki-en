@@ -5,7 +5,7 @@
 *   [Classes](Classes.md)
 *   [Factions](Factions.md)
 *   [In-game events](In-game_events.md)
-*   [Instances by level](Instances_by_level.md)
+*   [Instances](Instances.md)
 *   [Mounts](Mounts.md)
 *   [Patches](Patches.md)
 *   [Races](Races.md)
