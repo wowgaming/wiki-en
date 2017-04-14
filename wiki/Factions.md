@@ -6,4 +6,4 @@ The concept of a faction exists primarily in World of Warcraft. The use of facti
 Most factions are tracked in World of Warcraft by the reputation that a player character has with each faction. Some groups that are not tracked as factions appear in the organization list.
 
 
-<img src="../assets/images/Factions.png" width="450px">
+<img src="../assets/images/Factions.png" width="450px" onclick="window.open(this.src)">
