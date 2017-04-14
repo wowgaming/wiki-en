@@ -13,6 +13,8 @@ This is a dedicated wiki for Wrath of the lich king game version. Would be an hi
 Because we believe that the Open Source tools together the wiki concept allow us to create a repository of information that can never die
 thankfully to git, github and the fork system.
 
-In fact you can even download the whole wiki without lose anything. Every page here is a static file with an human readable markdown syntax.
+In fact you can even [download](https://github.com/wowgame/wiki-wotlk-en/zipball/master) the whole wiki without lose anything. Every page here is a static file with an human readable markdown syntax.
 
 Moreover anyone can collaborate to this project , such as on a real mediawiki platform.
+
+It's based on the [git wiki project](https://github.com/drassil/git-wiki)
