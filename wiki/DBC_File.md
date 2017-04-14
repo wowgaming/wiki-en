@@ -6,11 +6,7 @@
 
 [Achievement_Criteria](Achievement_Criteria.md)
 
-AdventureJournal
-
-AdventureMapPOI
-
-AnimationData
+[AnimationData](Animation_Data.md)
 
 AnimKit
 
@@ -32,19 +28,19 @@ AnimReplacementSet
 
 AreaAssignment
 
-AreaGroup
+[AreaGroup](AreaGroup.md)
 
 AreaMIDIAmbiences
 
-AreaPOI
+[AreaPOI](AreaPOI.md)
 
 AreaPOISortedWorldState
 
 AreaPOIState
 
-AreaTable
+[AreaTable](AreaTable.md)
 
-AreaTrigger
+[AreaTrigger](AreaTrigger.md)
 
 AreaTriggerActionSet
 
