@@ -1,346 +1,346 @@
 ## DBC List
 
-[[Achievement]]
+[Achievement](Achievement.md)
 
-[[Achievement Category]]
+[Achievement_Category](Achievement_Category.md)
 
-[[Achievement Criteria]]
+Achievement_Criteria
 
-[[AdventureJournal]]
+AdventureJournal
 
-[[AdventureMapPOI]]
+AdventureMapPOI
 
-[[AnimationData]]
+AnimationData
 
-[[AnimKit]]
+AnimKit
 
-[[AnimKitBoneSet]]
+AnimKitBoneSet
 
-[[AnimKitBoneSetAlias]]
+AnimKitBoneSetAlias
 
-[[AnimKitConfig]]
+AnimKitConfig
 
-[[AnimKitConfigBoneSet]]
+AnimKitConfigBoneSet
 
-[[AnimKitPriority]]
+AnimKitPriority
 
-[[AnimKitSegment]]
+AnimKitSegment
 
-[[AnimReplacement]]
+AnimReplacement
 
-[[AnimReplacementSet]]
+AnimReplacementSet
 
-[[AreaAssignment]]
+AreaAssignment
 
-[[AreaGroup]]
+AreaGroup
 
-[[AreaMIDIAmbiences]]
+AreaMIDIAmbiences
 
-[[AreaPOI]]
+AreaPOI
 
-[[AreaPOISortedWorldState]]
+AreaPOISortedWorldState
 
-[[AreaPOIState]]
+AreaPOIState
 
-[[AreaTable]]
+AreaTable
 
-[[AreaTrigger]]
+AreaTrigger
 
-[[AreaTriggerActionSet]]
+AreaTriggerActionSet
 
-[[AreaTriggerBox]]
+AreaTriggerBox
 
-[[AreaTriggerCylinder]]
+AreaTriggerCylinder
 
-[[AreaTriggerSphere]]
+AreaTriggerSphere
 
-[[ArmorLocation]]
+ArmorLocation
 
-[[Artifact]]
+Artifact
 
-[[ArtifactAppearance]]
+ArtifactAppearance
 
-[[ArtifactAppearanceSet]]
+ArtifactAppearanceSet
 
-[[ArtifactCategory]]
+ArtifactCategory
 
-[[ArtifactPower]]
+ArtifactPower
 
-[[ArtifactPowerLink]]
+ArtifactPowerLink
 
-[[ArtifactPowerRank]]
+ArtifactPowerRank
 
-[[ArtifactQuestXP]]
+ArtifactQuestXP
 
-[[ArtifactUnlock]]
+ArtifactUnlock
 
-[[AttackAnimKits]]
+AttackAnimKits
 
-[[AttackAnimTypes]]
+AttackAnimTypes
 
-[[AuctionHouse]]
+AuctionHouse
 
-[[BankBagSlotPrices]]
+BankBagSlotPrices
 
-[[BannedAddOns]]
+BannedAddOns
 
-[[BarberShopStyle]]
+BarberShopStyle
 
-[[BattlemasterList]]
+BattlemasterList
 
-[[BattlePetAbility]]
+BattlePetAbility
 
-[[BattlePetAbilityEffect]]
+BattlePetAbilityEffect
 
-[[BattlePetAbilityState]]
+BattlePetAbilityState
 
-[[BattlePetAbilityTurn]]
+BattlePetAbilityTurn
 
-[[BattlePetBreedQuality]]
+BattlePetBreedQuality
 
-[[BattlePetBreedState]]
+BattlePetBreedState
 
-[[BattlePetEffectProperties]]
+BattlePetEffectProperties
 
-[[BattlePetNPCTeamMember]]
+BattlePetNPCTeamMember
 
-[[BattlePetSpecies]]
+BattlePetSpecies
 
-[[BattlePetSpeciesState]]
+BattlePetSpeciesState
 
-[[BattlePetSpeciesXAbility]]
+BattlePetSpeciesXAbility
 
-[[BattlePetState]]
+BattlePetState
 
-[[BattlePetVisual]]
+BattlePetVisual
 
-[[BoneWindModifierModel]]
+BoneWindModifierModel
 
-[[BoneWindModifiers]]
+BoneWindModifiers
 
-[[Bounty]]
+Bounty
 
-[[BountySet]]
+BountySet
 
-[[BroadcastText]]
+BroadcastText
 
-[[CameraEffect]]
+CameraEffect
 
-[[CameraEffectEntry]]
+CameraEffectEntry
 
-[[CameraMode]]
+CameraMode
 
-[[CameraShakes]]
+CameraShakes
 
-[[CastableRaidBuffs]]
+CastableRaidBuffs
 
-[[Cfg Categories]]
+Cfg_Categories
 
-[[Cfg Configs]]
+Cfg_Configs
 
-[[Cfg Regions]]
+Cfg_Regions
 
-[[CharacterCreateCameras]]
+CharacterCreateCameras
 
-[[CharacterFaceBoneSet]]
+CharacterFaceBoneSet
 
-[[CharacterFacialHairStyles]]
+CharacterFacialHairStyles
 
-[[CharacterLoadout]]
+CharacterLoadout
 
-[[CharacterLoadoutItem]]
+CharacterLoadoutItem
 
-[[CharBaseInfo]]
+CharBaseInfo
 
-[[CharBaseSection]]
+CharBaseSection
 
-[[CharComponentTextureLayouts]]
+CharComponentTextureLayouts
 
-[[CharComponentTextureSections]]
+CharComponentTextureSections
 
-[[CharHairGeosets]]
+CharHairGeosets
 
-[[CharHairTextures]]
+CharHairTextures
 
-[[CharSections]]
+CharSections
 
-[[CharShipment]]
+CharShipment
 
-[[CharShipmentContainer]]
+CharShipmentContainer
 
-[[CharStartOutfit]]
+CharStartOutfit
 
-[[CharTextureVariationsV2]]
+CharTextureVariationsV2
 
-[[CharTitles]]
+CharTitles
 
-[[CharVariations]]
+CharVariations
 
-[[ChatChannels]]
+ChatChannels
 
-[[ChatProfanity]]
+ChatProfanity
 
-[[ChrClasses]]
+ChrClasses
 
-[[ChrClassesXPowerTypes]]
+ChrClassesXPowerTypes
 
-[[ChrClassRaceSex]]
+ChrClassRaceSex
 
-[[ChrClassTitle]]
+ChrClassTitle
 
-[[ChrClassUIDisplay]]
+ChrClassUIDisplay
 
-[[ChrClassVillain]]
+ChrClassVillain
 
-[[ChrProficiency]]
+ChrProficiency
 
-[[ChrRaces]]
+ChrRaces
 
-[[ChrSpecialization]]
+ChrSpecialization
 
-[[ChrUpgradeBucket]]
+ChrUpgradeBucket
 
-[[ChrUpgradeBucketSpell]]
+ChrUpgradeBucketSpell
 
-[[ChrUpgradeTier]]
+ChrUpgradeTier
 
-[[CinematicCamera]]
+CinematicCamera
 
-[[CinematicSequences]]
+CinematicSequences
 
-[[CloakDampening]]
+CloakDampening
 
-[[CombatCondition]]
+CombatCondition
 
-[[ComponentModelFileData]]
+ComponentModelFileData
 
-[[ComponentTextureFileData]]
+ComponentTextureFileData
 
-[[ConsoleScripts]]
+ConsoleScripts
 
-[[ConversationLine]]
+ConversationLine
 
-[[Creature]]
+Creature
 
-[[CreatureDifficulty]]
+CreatureDifficulty
 
-[[CreatureDisplayInfo]]
+CreatureDisplayInfo
 
-[[CreatureDisplayInfoCond]]
+CreatureDisplayInfoCond
 
-[[CreatureDisplayInfoExtra]]
+CreatureDisplayInfoExtra
 
-[[CreatureDisplayInfoTrn]]
+CreatureDisplayInfoTrn
 
-[[CreatureDispXUiCamera]]
+CreatureDispXUiCamera
 
-[[CreatureFamily]]
+CreatureFamily
 
-[[CreatureImmunities]]
+CreatureImmunities
 
-[[CreatureModelData]]
+CreatureModelData
 
-[[CreatureMovementInfo]]
+CreatureMovementInfo
 
-[[CreatureSoundData]]
+CreatureSoundData
 
-[[CreatureSpellData]]
+CreatureSpellData
 
-[[CreatureType]]
+CreatureType
 
-[[Criteria]]
+Criteria
 
-[[CriteriaTree]]
+CriteriaTree
 
-[[CriteriaTreeXEffect]]
+CriteriaTreeXEffect
 
-[[CurrencyCategory]]
+CurrencyCategory
 
-[[CurrencyTypes]]
+CurrencyTypes
 
-[[Curve]]
+Curve
 
-[[CurvePoint]]
+CurvePoint
 
-[[DanceMoves]]
+DanceMoves
 
-[[DeathThudLookups]]
+DeathThudLookups
 
-[[DecalProperties]]
+DecalProperties
 
-[[DeclinedWord]]
+DeclinedWord
 
-[[DeclinedWordCases]]
+DeclinedWordCases
 
-[[DestructibleModelData]]
+DestructibleModelData
 
-[[DeviceBlacklist]]
+DeviceBlacklist
 
-[[DeviceDefaultSettings]]
+DeviceDefaultSettings
 
-[[Difficulty]]
+Difficulty
 
-[[DissolveEffect]]
+DissolveEffect
 
-[[DriverBlacklist]]
+DriverBlacklist
 
-[[DungeonEncounter]]
+DungeonEncounter
 
-[[DungeonMap]]
+DungeonMap
 
-[[DungeonMapChunk]]
+DungeonMapChunk
 
-[[DurabilityCosts]]
+DurabilityCosts
 
-[[DurabilityQuality]]
+DurabilityQuality
 
-[[EdgeGlowEffect]]
+EdgeGlowEffect
 
-[[EmoteAnims]]
+EmoteAnims
 
-[[Emotes]]
+Emotes
 
-[[EmotesText]]
+EmotesText
 
-[[EmotesTextData]]
+EmotesTextData
 
-[[EmotesTextSound]]
+EmotesTextSound
 
-[[EnvironmentalDamage]]
+EnvironmentalDamage
 
-[[Exhaustion]]
+Exhaustion
 
-[[Faction]]
+Faction
 
-[[FactionGroup]]
+FactionGroup
 
-[[FactionTemplate]]
+FactionTemplate
 
-[[FileData]]
+FileData
 
-[[FootprintTextures]]
+FootprintTextures
 
-[[FootstepTerrainLookup]]
+FootstepTerrainLookup
 
-[[FriendshipRepReaction]]
+FriendshipRepReaction
 
-[[FriendshipReputation]]
+FriendshipReputation
 
-[[FullScreenEffect]]
+FullScreenEffect
 
-[[GameObjectArtKit]]
+GameObjectArtKit
 
-[[GameObjectDiffAnimMap]]
+GameObjectDiffAnimMap
 
-[[GameObjectDisplayInfo]]
+GameObjectDisplayInfo
 
-[[GameObjectDisplayInfoXSoundKit]]
+GameObjectDisplayInfoXSoundKit
 
-[[GameObjects]]
+GameObjects
 
-[[GameObjectsClient]]
+GameObjectsClient
 
-[[GameTables]]
+GameTables
 
-[[GameTips]]
+GameTips
 
