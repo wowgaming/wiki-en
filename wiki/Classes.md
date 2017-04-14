@@ -1,7 +1,5 @@
 # Classes
 
-# Classes
-
 For the classes in the Warcraft RPG, see RPG Classes. For a short description on class lore, see Class lore.
 A class is the primary adventuring style of a player character which determines the type of weapons and armor it can use, as well as what abilities, powers, skills, and spells it will gain throughout its adventures.
 
