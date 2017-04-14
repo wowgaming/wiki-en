@@ -6,7 +6,7 @@
 
 [Achievement_Criteria](Achievement_Criteria.md)
 
-[AnimationData](Animation_Data.md)
+[AnimationData](AnimationData.md)
 
 AnimKit
 
