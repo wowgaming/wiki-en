@@ -17,5 +17,5 @@
 
 ### Various
 
-*   [Read more about wotlk-wiki](/README.md)
+*   [Read more about wotlk-wiki](../README.md)
 
