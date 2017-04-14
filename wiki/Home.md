@@ -15,3 +15,7 @@
 
 *   [Addons Collection](https://github.com/wowgame/addons-335a-collection)
 
+### Various
+
+*   [Read more about wotlk-wiki](/README.md)
+
