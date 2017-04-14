@@ -9,12 +9,9 @@
 *   [Mounts](Mounts.md)
 *   [Patches](Patches.md)
 *   [Races](Races.md)
+*   [Addons](Addons.md)
 
 ### Tools
-
-*   [Addons Collection](https://github.com/wowgame/addons-335a-collection)
-
-*   [Addons](Addons.md)
 
 *   [Addons List](Addons_List.md)
 
