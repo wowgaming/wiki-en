@@ -11,6 +11,6 @@ Some mods are standalone, able to run without any additional software. Others ar
 
 ## Addons Collection
 
-Checkout our [Addons List](Addons_list.md)
+Checkout our [Addons List](Addons_List.md)
 
 
