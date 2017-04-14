@@ -1,6 +1,6 @@
 title: Wiki Wotlk
 description: World of Warcraft - Wrath of The Lich King wiki 
-show_downloads: false
+show_downloads: true
 git_branch: master
 logo_url: http://wowgame.github.io/wiki-wotlk-en/assets/images/WrathLogo.png
 google_analytics:
