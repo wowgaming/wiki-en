@@ -16,5 +16,7 @@
 
 ### Various
 
+*   [DBC_File](DBC_File.md)
+
 *   [Read more about wotlk-wiki](../README.md)
 
