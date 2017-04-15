@@ -1,4 +1,4 @@
-### World of Warcraft (WoW)
+### World of Warcraft - Wrath of the lich king (WoW - Wotlk)
 
 *   [Classes](Wotlk_Classes.md)
 *   [Factions](Wotlk_Factions.md)
