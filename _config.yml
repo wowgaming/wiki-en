@@ -2,7 +2,7 @@ title: WoW Wiki
 description: World of Warcraft - wiki 
 show_downloads: true
 git_branch: master
-logo_url: http://wowgame.github.io/wiki-en/assets/images/World-of-Warcraft-Logo.jpg.png
+logo_url: https://wowgame.github.io/wiki-en/assets/images/World-of-Warcraft-Logo.jpg.png
 google_analytics:
 theme: 
 use_github_wiki: false
