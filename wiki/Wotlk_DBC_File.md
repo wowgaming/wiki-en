@@ -1,12 +1,12 @@
 ## DBC List
 
-[Achievement](Achievement.md)
+[Achievement](Wotlk_Achievement.md)
 
-[Achievement_Category](Achievement_Category.md)
+[Achievement_Category](Wotlk_Achievement_Category.md)
 
-[Achievement_Criteria](Achievement_Criteria.md)
+[Achievement_Criteria](Wotlk_Achievement_Criteria.md)
 
-[AnimationData](AnimationData.md)
+[AnimationData](Wotlk_AnimationData.md)
 
 AnimKit
 
@@ -28,19 +28,19 @@ AnimReplacementSet
 
 AreaAssignment
 
-[AreaGroup](AreaGroup.md)
+[AreaGroup](Wotlk_AreaGroup.md)
 
 AreaMIDIAmbiences
 
-[AreaPOI](AreaPOI.md)
+[AreaPOI](Wotlk_AreaPOI.md)
 
 AreaPOISortedWorldState
 
 AreaPOIState
 
-[AreaTable](AreaTable.md)
+[AreaTable](Wotlk_AreaTable.md)
 
-[AreaTrigger](AreaTrigger.md)
+[AreaTrigger](Wotlk_AreaTrigger.md)
 
 AreaTriggerActionSet
 
