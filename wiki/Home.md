@@ -4,6 +4,6 @@
 
 * [Wrath of the lich king](Wotlk_Home.md)
 
-## Contents
+## About
 
 * [Readme](../README.md)
