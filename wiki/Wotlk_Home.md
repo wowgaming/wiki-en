@@ -20,5 +20,5 @@
 
 ### Other
 
-*   [Wotlk WoWGame Page](http://wowgame.github.io/home/wotlk.html
+*   [Wotlk WoWGame Page](http://wowgame.github.io/home/wotlk.html)
 
