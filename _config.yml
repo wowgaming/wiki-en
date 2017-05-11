@@ -1,14 +1,14 @@
-title: git-wiki-demo
-description: This is a demo of git-wiki theme for jekyll
+title: WoW Wiki
+description: World of Warcraft - wiki 
 show_downloads: true
-comments: true
-logo_url: https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1122px-Wikipedia-logo-v2.svg.png
+git_branch: master
+logo_url: https://wowgame.github.io/wiki-en/assets/images/World-of-Warcraft-Logo.jpg
 google_analytics:
-git_branch: gh-pages
 theme: 
 use_github_wiki: false
 use_prose_io: true
-google_cse_token: 007197903287787072094:8rbvkeqo6qw
+google_cse_token: 007197903287787072094:kayohas4w7e
+comments: true
 custom_sidebar: true
 gems:
   - jekyll-sitemap
