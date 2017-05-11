@@ -21,4 +21,5 @@
 ### Other
 
 *   [Wotlk WoWGame Page](http://wowgame.github.io/home/wotlk.html)
+*   [Database](http://db.wow-game.net/)
 
