@@ -18,3 +18,7 @@
 *   [DBC_File](Wotlk_DBC_File.md)
 *   [Emulators](Emulators_List.md#wotlk)
 
+### Other
+
+*   [Wotlk WoWGame Page](http://wowgame.github.io/home/wotlk.html
+
