@@ -24,4 +24,4 @@
 
 * [Readme](../README.md)
 
-* [WoWGame Site](http://wowgame.github.io)
+* <a href="http://www.wowgaming.org/" target="_blank">WoWGaming Site</a>
