@@ -8,8 +8,8 @@ layout: page
 _permalink: >
   https://wowgaming.altervista.org/wp/wotlk-home/
 published: true
-dsq_needs_sync:
-  - "1"
+dsq_thread_id:
+  - "5842714332"
 tags: [ ]
 categories: [ ]
 ---
@@ -17,21 +17,21 @@ categories: [ ]
 <ul>
  	<li><a href="./wotlk-classes">Classes</a></li>
  	<li><a href="./wotlk-factions">Factions</a></li>
- 	<li><a href="/wotlk-in-game.events">In-game events</a></li>
- 	<li><a href="/wotlk-instances">Instances</a></li>
- 	<li><a href="/wotlk-mounts">Mounts</a></li>
- 	<li><a href="/wotlk-patches">Patches</a></li>
- 	<li><a href="/wotlk-races">Races</a></li>
- 	<li><a href="/wotlk-addons">Addons</a></li>
+ 	<li><a href="./wotlk-in-game.events">In-game events</a></li>
+ 	<li><a href="./wotlk-instances">Instances</a></li>
+ 	<li><a href="./wotlk-mounts">Mounts</a></li>
+ 	<li><a href="./wotlk-patches">Patches</a></li>
+ 	<li><a href="./wotlk-races">Races</a></li>
+ 	<li><a href="./wotlk-addons">Addons</a></li>
 </ul>
 <h3>Tools</h3>
 <ul>
- 	<li><a href="/wotlk-addons-list.md">Addons List</a></li>
+ 	<li><a href="./wotlk-addons-list.md">Addons List</a></li>
 </ul>
 <h3>Development</h3>
 <ul>
- 	<li><a href="/wotlk-dbc-files">DBC_Files</a></li>
- 	<li><a href="/emulators_list#wotlk">Emulators</a></li>
+ 	<li><a href="./wotlk-dbc-files">DBC_Files</a></li>
+ 	<li><a href="./emulators_list#wotlk">Emulators</a></li>
 </ul>
 <h3>Other</h3>
 <ul>
