@@ -37,4 +37,4 @@ categories: [ ]
 
 ## About
 
-* &lt;a href=\"http://www.wowgaming.org/\" target=\"_blank\" rel=\"noopener noreferrer\"&gt;WoWGaming Site&lt;/a&gt;
+* <a href="http://www.wowgaming.org/" target="_blank">WoWGaming Site</a>
