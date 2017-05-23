@@ -11,8 +11,11 @@ dsq_thread_id:
   - "5842311972"
 dsq_needs_sync:
   - "1"
-tags: [ ]
-categories: [ ]
+tags:
+  - expansion
+  - wow
+categories:
+  - common
 ---
 # Welcome to WoW Wotlk Wiki
 ## PORTALS BY EXPANSIONS
