@@ -15,8 +15,8 @@ categories: [ ]
 ---
 <h3>World of Warcraft - Wrath of the lich king (WoW - Wotlk)</h3>
 <ul>
- 	<li><a href="http://wotlk-classes">Classes</a></li>
- 	<li><a href="http://wotlk-factions">Factions</a></li>
+ 	<li><a href="./wotlk-classes">Classes</a></li>
+ 	<li><a href="./wotlk-factions">Factions</a></li>
  	<li><a href="/wotlk-in-game.events">In-game events</a></li>
  	<li><a href="/wotlk-instances">Instances</a></li>
  	<li><a href="/wotlk-mounts">Mounts</a></li>
