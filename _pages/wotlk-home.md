@@ -1,7 +1,7 @@
 ---
 ID: 36
 post_title: wotlk-home
-author: josephroy
+author: yehonal
 post_date: 2017-05-23 12:34:35
 post_excerpt: ""
 layout: page
@@ -14,7 +14,7 @@ dsq_needs_sync:
   - "1"
 tags: [ ]
 categories:
-  - wotlk
+  - Wrath of The Lich King
 ---
 <h3>World of Warcraft - Wrath of the lich king (WoW - Wotlk)</h3>
 <ul>
