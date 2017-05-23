@@ -4,7 +4,7 @@ post_title: Home
 author: yehonal
 post_date: 2017-05-23 09:09:02
 post_excerpt: ""
-layout: page
+layout: default
 published: true
 dsq_thread_id:
   - "5842311972"
