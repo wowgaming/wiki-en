@@ -29,7 +29,7 @@ categories:
 </ul>
 <h3>Tools</h3>
 <ul>
- 	<li><a href="./wotlk-addons-list.md">Addons List</a></li>
+ 	<li><a href="./wotlk-addons-list">Addons List</a></li>
 </ul>
 <h3>Development</h3>
 <ul>
