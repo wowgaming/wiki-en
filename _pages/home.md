@@ -14,28 +14,27 @@ dsq_needs_sync:
 tags: [ ]
 categories: [ ]
 ---
-<h1>Welcome to WoW Wotlk Wiki</h1>
+# Welcome to WoW Wotlk Wiki
+## PORTALS BY EXPANSIONS
 
-<h2>PORTALS BY EXPANSIONS</h2>
+* [Legion](legion-home)
 
-<ul>
-<li><p><a href=\"legion-home\">Legion</a></p></li>
-<li><p><a href=\"wod-home\">Warlords of Draenor</a></p></li>
-<li><p><a href=\"mop-home\">Mists of Pandaria</a></p></li>
-<li><p><a href=\"cata-home\">Cataclysm</a></p></li>
-<li><p><a href=\"wotlk-home\">Wrath of the lich king</a></p></li>
-<li><p><a href=\"tbc-home\">The Burning Crusade</a></p></li>
-<li><p><a href=\"classic-home\">Classic</a></p></li>
-</ul>
+* [Warlords of Draenor](wod-home)
 
-<h2>DEVELOPMENT</h2>
+* [Mists of Pandaria](mop-home)
 
-<ul>
-<li><a href=\"emulation\">Emulation</a></li>
-</ul>
+* [Cataclysm](cata-home)
 
-<h2>About</h2>
+* [Wrath of the lich king](wotlk-home)
 
-<ul>
-<li>&lt;a href=\"http://www.wowgaming.org/\" target=\"_blank\" rel=\"noopener noreferrer\"&gt;WoWGaming Site&lt;/a&gt;</li>
-</ul>
+* [The Burning Crusade](tbc-home)
+
+* [Classic](classic-home)
+
+## DEVELOPMENT
+
+* [Emulation](emulation)
+
+## About
+
+* &lt;a href="http://www.wowgaming.org/" target="_blank" rel="noopener noreferrer"&gt;WoWGaming Site&lt;/a&gt;
