@@ -8,8 +8,8 @@ layout: page
 _permalink: >
   https://wowgaming.altervista.org/wp/wowgaming/
 published: true
-dsq_needs_sync:
-  - "1"
+dsq_thread_id:
+  - "5844046929"
 tags: [ ]
 categories:
   - Wrath of The Lich King
@@ -38,31 +38,12 @@ We are <strong>Open Source</strong> because:
 <div class=" bd-layoutcontainer-5 bd-columns bd-no-margins">
 <div class="bd-container-inner">
 <div class="container-fluid">
-<div class="row ">
-<div class=" bd-columnwrapper-19 col-lg-12 col-sm-12">
-<div class="bd-layoutcolumn-19 bd-column">
-<div class="bd-vertical-align-wrapper">WoWGaming could be <strong>helpful</strong> for:</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class=" bd-layoutcontainer-14 bd-columns bd-no-margins">
-<div class="bd-container-inner">
-<div class="container-fluid">
-<div class="row ">
-<div class=" bd-columnwrapper-38 col-lg-12 col-sm-12">
-<div class="bd-layoutcolumn-38 bd-column">
-<div class="bd-vertical-align-wrapper">
-<ul class=" bd-textblock-27 bd-content-element">
+<div class="row ">WoWGaming could be <strong>helpful</strong> for:
+<ul>
  	<li>Wiki and Database search engine for educational Open Source application server projects</li>
  	<li>Keeping an historical archive of World of Warcraft original data</li>
  	<li>Discussing and Blogging about newest and oldest WoW Facts</li>
 </ul>
-</div>
-</div>
-</div>
 </div>
 </div>
 </div>
