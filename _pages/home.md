@@ -5,7 +5,6 @@ author: yehonal
 post_date: 2017-05-23 09:09:02
 post_excerpt: ""
 layout: page
-permalink: https://wowgaming.altervista.org/wp/
 published: true
 dsq_thread_id:
   - "5842311972"
