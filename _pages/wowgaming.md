@@ -37,3 +37,10 @@ We are <strong>Open Source</strong> because:
 &nbsp;
 
 <strong>This project can't die:</strong> In few words anyone can easily grab the entire pool of our data continuing our mission in any time.
+
+WoWGaming could be <strong>helpful</strong> for:
+<ul>
+ 	<li>Wiki and Database search engine for educational Open Source application server projects</li>
+ 	<li>Keeping an historical archive of World of Warcraft original data</li>
+ 	<li>Discussing and Blogging about newest and oldest WoW Facts</li>
+</ul>
