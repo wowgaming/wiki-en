@@ -8,11 +8,13 @@ layout: page
 _permalink: >
   https://wowgaming.altervista.org/wp/emulators-list/
 published: true
+dsq_needs_sync:
+  - "1"
 tags: [ ]
 categories:
   - Common
 ---
-Alphabetical order
+[Emulators](emulation) in Alphabetical order
 
 ## Open Source Active Projects
 
