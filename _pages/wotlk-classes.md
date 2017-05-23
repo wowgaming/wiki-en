@@ -8,6 +8,8 @@ layout: page
 _permalink: >
   https://wowgaming.altervista.org/wp/wotlk-classes/
 published: true
+dsq_thread_id:
+  - "5843134904"
 tags: [ ]
 categories:
   - Wrath of The Lich King
