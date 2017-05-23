@@ -35,20 +35,13 @@ We are <strong>Open Source</strong> because:
 &nbsp;
 
 <strong>This project can't die:</strong> In few words anyone can easily grab the entire pool of our data continuing our mission in any time.
-
-&nbsp;
 <div class=" bd-layoutcontainer-5 bd-columns bd-no-margins">
 <div class="bd-container-inner">
 <div class="container-fluid">
 <div class="row ">
-<div class=" bd-columnwrapper-19 
- col-lg-12
- col-sm-12">
+<div class=" bd-columnwrapper-19 col-lg-12 col-sm-12">
 <div class="bd-layoutcolumn-19 bd-column">
-<div class="bd-vertical-align-wrapper">
-<p class=" bd-textblock-5 bd-content-element">WoWGaming could be <strong>helpful</strong> for:</p>
-
-</div>
+<div class="bd-vertical-align-wrapper">WoWGaming could be <strong>helpful</strong> for:</div>
 </div>
 </div>
 </div>
@@ -59,9 +52,7 @@ We are <strong>Open Source</strong> because:
 <div class="bd-container-inner">
 <div class="container-fluid">
 <div class="row ">
-<div class=" bd-columnwrapper-38 
- col-lg-12
- col-sm-12">
+<div class=" bd-columnwrapper-38 col-lg-12 col-sm-12">
 <div class="bd-layoutcolumn-38 bd-column">
 <div class="bd-vertical-align-wrapper">
 <ul class=" bd-textblock-27 bd-content-element">
