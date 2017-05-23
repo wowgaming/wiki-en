@@ -9,12 +9,11 @@ _permalink: https://wowgaming.altervista.org/wp/
 published: true
 dsq_thread_id:
   - "5842311972"
-dsq_needs_sync:
-  - "1"
 tags: [ ]
 categories: [ ]
 ---
 # Welcome to WoW Wotlk Wiki
+
 
 ## PORTALS BY EXPANSIONS
 
@@ -38,4 +37,4 @@ categories: [ ]
 
 ## About
 
-* <a href="http://www.wowgaming.org/" target="_blank">WoWGaming Site</a>
+* <a href="http://www.wowgaming.org/" target="_blank" rel="noopener noreferrer">WoWGaming Site</a>
