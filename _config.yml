@@ -5,7 +5,7 @@ git_branch: master
 logo_url: https://wowgame.github.io/wiki-en/assets/images/World-of-Warcraft-Logo.jpg
 google_analytics:
 theme: 
-include: _pages, _posts
+include: ["_pages", "_posts"]
 use_github_wiki: false
 use_prose_io: true
 google_cse_token: 007197903287787072094:kayohas4w7e
