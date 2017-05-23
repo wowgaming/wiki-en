@@ -10,7 +10,7 @@ _permalink: >
 published: true
 tags: [ ]
 categories:
-  - Senza categoria
+  - Blog
 ---
 Welcome to all visitors!
 
