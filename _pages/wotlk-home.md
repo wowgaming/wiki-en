@@ -10,8 +10,11 @@ _permalink: >
 published: true
 dsq_thread_id:
   - "5842714332"
+dsq_needs_sync:
+  - "1"
 tags: [ ]
-categories: [ ]
+categories:
+  - wotlk
 ---
 <h3>World of Warcraft - Wrath of the lich king (WoW - Wotlk)</h3>
 <ul>
