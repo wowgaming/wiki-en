@@ -1,6 +1,6 @@
 ---
 ID: 36
-post_title: wotlk-home
+post_title: Wrath of the lich king
 author: yehonal
 post_date: 2017-05-23 12:34:35
 post_excerpt: ""
