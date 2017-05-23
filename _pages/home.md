@@ -9,32 +9,33 @@ _permalink: https://wowgaming.altervista.org/wp/
 published: true
 dsq_thread_id:
   - "5842311972"
+dsq_needs_sync:
+  - "1"
 tags: [ ]
 categories: [ ]
 ---
-# Welcome to WoW Wotlk Wiki
+<h1>Welcome to WoW Wotlk Wiki</h1>
 
+<h2>PORTALS BY EXPANSIONS</h2>
 
-## PORTALS BY EXPANSIONS
+<ul>
+<li><p><a href=\"legion-home\">Legion</a></p></li>
+<li><p><a href=\"wod-home\">Warlords of Draenor</a></p></li>
+<li><p><a href=\"mop-home\">Mists of Pandaria</a></p></li>
+<li><p><a href=\"cata-home\">Cataclysm</a></p></li>
+<li><p><a href=\"wotlk-home\">Wrath of the lich king</a></p></li>
+<li><p><a href=\"tbc-home\">The Burning Crusade</a></p></li>
+<li><p><a href=\"classic-home\">Classic</a></p></li>
+</ul>
 
-* [Legion](Legion_Home)
+<h2>DEVELOPMENT</h2>
 
-* [Warlords of Draenor](Wod_Home)
+<ul>
+<li><a href=\"emulation\">Emulation</a></li>
+</ul>
 
-* [Mists of Pandaria](Mop_Home)
+<h2>About</h2>
 
-* [Cataclysm](Cata_Home)
-
-* [Wrath of the lich king](Wotlk_Home)
-
-* [The Burning Crusade](Tbc_Home)
-
-* [Classic](Classic_Home)
-
-## DEVELOPMENT
-
-* [Emulation](Emulation)
-
-## About
-
-* <a href="http://www.wowgaming.org/" target="_blank" rel="noopener noreferrer">WoWGaming Site</a>
+<ul>
+<li>&lt;a href=\"http://www.wowgaming.org/\" target=\"_blank\" rel=\"noopener noreferrer\"&gt;WoWGaming Site&lt;/a&gt;</li>
+</ul>
