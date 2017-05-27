@@ -34,7 +34,7 @@ categories:
 <h3>Development</h3>
 <ul>
  	<li><a href="./wotlk-dbc-files">DBC_Files</a></li>
- 	<li><a href="./emulators_list#wotlk">Emulators</a></li>
+ 	<li><a href="./emulators-list#wotlk">Emulators</a></li>
 </ul>
 <h3>Other</h3>
 <ul>
