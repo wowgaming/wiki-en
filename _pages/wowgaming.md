@@ -23,7 +23,7 @@ WoWGaming is a project that aims to provide a pool of <strong>Free</strong> and<
 This project is totally <strong>free</strong> thankfully to our partners and donators:
 <ul>
  	<li>We are financially supported by the no-profit organization: Drassil.org</li>
- 	<li>We're hosted by Github and Altervista that grants us great resources at zero costs.</li>
+ 	<li>We're hosted by Github and Altervista that grants us great resources at zero costs and few advertisement banners.</li>
  	<li>We're using free social tools such as: Discord, Google+, Disqus etc.</li>
 </ul>
 &nbsp;
