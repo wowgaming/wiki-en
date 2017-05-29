@@ -28,7 +28,7 @@ This project is totally <strong>free</strong> thankfully to our partners and don
 </ul>
 &nbsp;
 
-We are <strong>Open Source</strong> because:
+We are <a href="https://github.com/wowgame"><strong>Open Source</strong></a> because:
 <ul>
  	<li>We're using aowow and trinitycore/azerothcore database for our db search engine</li>
  	<li>We're using a modified and open source version of wordpress for our wiki</li>
