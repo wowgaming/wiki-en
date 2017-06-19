@@ -11,8 +11,9 @@ I adapted her tutorial to this wiki, because many people found it very useful an
 
 ## Intro
 
-Wont include glyphs cuz it's pretty much "obvious" what to do with them and what spells to improve since on 19 you can use only 1 major and minor glyph.  
-Also I think it's your personal choice what will your do with your talent points. We all have our style of play and I respect anyone's ways. With only 10 talent points to spend I dont think there is much space for mistakes. Just read carefully each talent and choose those which are fitting your playing style.  
+I won't include **glyphs** because it's pretty much "obvious" what to do with them and what spells to improve since on 19 you can use only 1 major and minor glyph.
+
+Also I think it's your personal choice what will your do with your **talent points**. We all have our style of play and I respect anyone's ways. With only **10** talent points to spend I dont think there is much space for mistakes. Just read carefully each talent and choose those which are fitting your playing style.  
 
 Some terms you might not be familiar with:  
 agm = [Arena Grand Master](https://wowgaming.altervista.org/aowow/?item=19024)  
@@ -22,20 +23,30 @@ lb = [Lifeblood](https://wowgaming.altervista.org/aowow/?spell=55500)
 ## Why would you make a level 19 character
 
 Simple: CHALLENGE!  
-You start with nothing and you end up with little = chalange. True fun about 19s is making something out of nothing. Many people say that its 2 button smashing bracket and it's truly not. I have 3 bars filled with hotkeys and 3 bars filled some other stuff to avoid complication while buffing myself with scrolls and food/drinks. I really have no intension on prooving those guys wrong, if someone wants a proof PM me I'll write you down list of my hotkeys and how frequently they are used. I'm sure you will be impressed how developed can rogue's combat be at lv19\.  
-To back up my story I'll just say that yesterday in Gurubashi Arena I defeated 2 lv80s (dk & warr) and lv74 (paladin) while defending my friend to get AGM trinket, and than they came back again and died again and again and again... I went oom and some lock came and killed me in the end. I used like 3-4 keys the most as shadow priest. Those who know me, know how active that priest is and what mess is his UI, still it was piece of cake to fight vs them. Combat as lv19 rog is alot more complicated than the one I ever had on that priest mostly cuz of handicaps you are faced with and improvisations you gotta make to get something more out of it. It's not same for every class tough.  
-However, in this guide I will show you how to find solutions to some of handicaps of your class and with some of them you can turn your warrior into a class with lay on hands spell that casts aoe fire spells, firebolts, nets and has a combat pet. Sounds interesting ??? I know it does. It's the beauty of lv19 where those minor hidden things in game, that have no place in 80 content, here can play a big role in duel or bg outcome. ( this will be covered in last part of guide )  
+
+You start with nothing and you end up with little = challange. True fun about 19s is making something out of nothing.
+
+Many people say that it's 2 buttons smashing bracket and it's truly not. I have 3 bars filled with hotkeys and 3 bars filled some other stuff to avoid complication while buffing myself with scrolls and food/drinks. I really have no intention on proving those guys wrong, if someone wants a proof PM me I'll write you down list of my hotkeys and how frequently they are used. I'm sure you will be impressed how developed can rogue's combat be at level 19.
+
+To back up my story I'll just say that yesterday in Gurubashi Arena I defeated 2 lv80s (dk & warr) and lv74 (paladin) while defending my friend to get AGM trinket, and than they came back again and died again and again and again... I went oom and some lock came and killed me in the end. I used like 3-4 keys the most as shadow priest. Those who know me, know how active that priest is and what mess is his UI, still it was piece of cake to fight vs them. Combat as lv19 rog is a lot more complicated than the one I ever had on that priest mostly cuz of handicaps you are faced with and improvisations you gotta make to get something more out of it. It's not same for every class tough. 
+
+However, in this guide I will show you how to find solutions to some of handicaps of your class and with some of them you can turn your warrior into a class with lay on hands spell that casts aoe fire spells, firebolts, nets and has a combat pet.
+
+Sounds interesting ??? I know it does. It's the beauty of lv19 where those minor hidden things in game, that have no place in 80 content, here can play a big role in duel or bg outcome. ( this will be covered in last part of guide )  
 
 ## Race / Class combinations 
 
-Every class has it's best fitting race, we all know that but we dont always stick to that rule. Myself included hehe  
-Here is the list of best race/class combos which can mostly be applied to any bracket. Still in lv19 it kinda plays bigger role than in other brackets mostly because you will be using your racial more often than in any other bracket. Also important thing to take in consideration is base stats of each race. Pick the one that fits your class the most, unless you really don't like the "looks" of it.  
+Every class has it's best fitting race, we all know that but we don't always stick to that rule. Myself included hehe.
+
+Here is the list of best race/class combos which can mostly be applied to any bracket. Still in lv19 it kinda plays a bigger role than in other brackets mostly because you will be using your racial more often than in any other bracket. 
+
+Also important thing to take in consideration is base stats of each race. Pick the one that fits your class the most, unless you really don't like the "looks" of it.
 
 ![Image](http://www.wowgaming.org/wiki-en/assets/images/twink19/twink19-alliance.jpg)
 
 ![Image](http://www.wowgaming.org/wiki-en/assets/images/twink19/twink19-horde.jpg)
 
-Warrior:  
+**Warrior**:
 - horde choice:  
 Tauren - that extra stun is simply OP especialy in this bracket where you have no mounts  
 Orc - racial that increases damage; increased expertise with axes which is important (see gearing up section)  
@@ -44,24 +55,24 @@ Orc - racial that increases damage; increased expertise with axes which is impor
 Human - racial pvp trinket  
 Draenei - racial heal that, if combined with lifeblood, can turn every class into damn fkn paladin  
 
-Paladin:  
+**Paladin**:  
 - horde choice:  
-Belfs win by default  
+Blood elf win by default  
 
 - alliance choice:  
 Human - racial pvp trinket  
 Draenei - "moar healz plox"  
 
-Rogue:  
+**Rogue**:  
 - horde choice:  
 Undead - racial that can remove fear or sleep effects (yea... you can make someone sleep in 19s )  
 Troll - combine their racial with slice&dice = lightning speed atks  
 
 - alliance choice:  
 Human - same shit as above mentioned, that racial pvp trinket allows you to equip 2 agm trinkets = 240 hp  
-Night Elfs - it's just hillarious to see those alliance guys playing damn GNOME ROGUES. Nelfs have racial VANISH. learn to use it nabs loool ! But as I myself dont play best rog race on horde side I belong to nab party too. Still if I ever played alliance rogue it would be Nelf.  
+Night Elfs - it's just hillarious to see those alliance guys playing damn GNOME ROGUES. Night Elves have racial VANISH. learn to use it nabs loool ! But as I myself dont play best rog race on horde side I belong to nab party too. Still if I ever played alliance rogue it would be a Night Elf.  
   
-Warlock:  
+**Warlock**:  
 - horde choice:  
 Blood Elf: mana regen racial + silence to nearby casters = sexy stuff  
 Undead: if you cast shadow dmg than it's nice to be ressistant to that one ;) plus you can remove fear from you making you look like a true master of your magic. This race makes you ultimate lock - resistant to what you actually do = EPIC imo  
@@ -70,7 +81,7 @@ Undead: if you cast shadow dmg than it's nice to be ressistant to that one ;) pl
 Human - booooring ehh? that trinket thingy again  
 Gnome - not best choice but it's only one you can afford if you dont like humans ;) can get you some extra mana which is nice too  
 
-Mage:  
+**Mage**:  
 - horde choice:  
 Blood Elf: if you pick anything else go kill yourself. You just NEED mana so bad and that's making undead or troll really not good options for mage in 19s. Mage is mana consuming bastard.  
 
@@ -78,7 +89,7 @@ Blood Elf: if you pick anything else go kill yourself. You just NEED mana so bad
 Gnome: some extra mana  
 Draenei: guess what... draenei mage with agm + lb + racial heal is almost a priest with mage's spells. He can heal others with gift of naru and I was in like 15-20 occasions where mage actually saved someone's life with this racial.  
 
-Priest:  
+**Priest**:  
 - horde choice:  
 Blood Elf: it's racial is simply the best choice for any caster in 19s - end of story.  
 
@@ -86,16 +97,16 @@ Blood Elf: it's racial is simply the best choice for any caster in 19s - end of 
 Human: 2 agm = 240 hp or more spellpower with x2 heriloom trinkets. This is possible due to racial pvp trinket  
 Draenei: Still with all benefits of human race 100% of alliance priests are draenei. Why? Extra healing spell, that's low if you ask me ;)  
   
-Hunter:  
+**Hunter**:  
 - horde choice:  
 Blood Elf: extra mana + silence  
 Troll: more atk speed and more dmg with bows  
 
 - alliance choice:  
-Night Elf: mostly cuz you stay invisible and start your surprise attack when enemy doesn't expect it  
+Night Elf: mostly because you stay invisible and start your surprise attack when enemy doesn't expect it  
 Dwarf: 10% increased armor for 8secs + bleed & posion removal (yea.. 19s CAN have poisons, stay tuned! :D )  
 
-Shaman:  
+**Shaman**:  
 - horde choice:  
 Tauren: that racial stun can get you alot advantage over your opponents. You can get enough time to run away and heal up, or just to make range and pew pew your target while he is slowed by totem.  
 Troll: extra cast speed, regen benefits, da voodoo shuffle makes this class good choice too. (edit - thanks to Ragnorak for tips)  
@@ -103,7 +114,7 @@ Troll: extra cast speed, regen benefits, da voodoo shuffle makes this class good
 - alliance choice:  
 Draenei wins by default (spacegoat with wolf form... epic :P )  
   
-Druid:  
+**Druid**:  
 - horde choice:  
 Tauren wins by default  
 
@@ -112,12 +123,15 @@ Draenei... ohhh wait :P luckily they can't add one more heal to druids... Night 
 
 ## Gear lists
 
-I wont make usual gear lists like you've seen in random guides all over internet. I'll do it on "my own way".  
-Here is the list of items that are mostly used by all classes, those stuff are considered MUST HAVE for 99% of 19lvs. For more information about where to get each item just click the link. Items are listed as general stuff for everyone, non-caster and caster items. Just browse trough list and see what fits you the most. Don't follow anyone's rules - your style is the best style if you enjoy playing it :  
+I won't make usual gear lists like you've seen in random guides all over internet. I'll do it on "my own way". 
+
+Here is the list of items that are mostly used by all classes, those stuff are considered MUST HAVE for 99% of 19lvs.
+
+For more information about where to get each item just click the link. Items are listed as general stuff for everyone, non-caster and caster items. Just browse trough list and see what fits you the most. Don't follow anyone's rules - your style is the best style if you enjoy playing it:  
   
-General items without class requirements:  
+### General items without class requirements:  
   
-HEAD SLOT ITEMS AND TRINKETS  
+**HEAD SLOT ITEMS AND TRINKETS**
 
 [Arena Grandmaster Trinket](https://wowgaming.altervista.org/aowow/?item=19024) for everyone on both factions  
 
@@ -129,7 +143,7 @@ HEAD SLOT ITEMS AND TRINKETS
 
 ### Non-caster gear  
 
-RINGS & NECK ITEMS:  
+#### RINGS & NECK ITEMS
 [Legionnaire's Band](https://wowgaming.altervista.org/aowow/?item=19511) for horde  
 [Seal of Syvanas](https://wowgaming.altervista.org/aowow/?item=6414) for horde  
 [Protector's Band](https://wowgaming.altervista.org/aowow/?item=19515) for alliance  
@@ -138,7 +152,7 @@ RINGS & NECK ITEMS:
 [Scout's Medallion](https://wowgaming.altervista.org/aowow/?item=20442) for horde  
 [Sentinel's Medallion](https://wowgaming.altervista.org/aowow/?item=20444) for alliance  
 
-CLOAKS & BELTS:  
+#### CLOAKS & BELTS
 [Tumultuous Cloak](https://wowgaming.altervista.org/aowow/?item=51994) both factions, (enchant depents on your class. best ones are "of bandit" and "soldier" imo)  
 [Earthbound Girdle](https://wowgaming.altervista.org/aowow/?item=51978) both factions (of the soldier)  
   
@@ -147,7 +161,7 @@ CLOAKS & BELTS:
 [Glowing Lizardscale Cloak](https://wowgaming.altervista.org/aowow/?item=6449) both factions  
 [Miner's Cape](https://wowgaming.altervista.org/aowow/?item=5444) both factions  
   
-SHOULDER ITEMS:  
+#### SHOULDER ITEMS
 [Stained Shadowcraft Spaulders](https://wowgaming.altervista.org/aowow/?item=42952) both factions (leather - rogue mostly)  
 [Exceptional Stormshroud Shoulders](https://wowgaming.altervista.org/aowow/?item=44103) both factions  
 [Serpent's Shoulders](https://wowgaming.altervista.org/aowow/?item=5404) both factions  
@@ -156,7 +170,7 @@ SHOULDER ITEMS:
 [Prized Beastmaster's Mantle](https://wowgaming.altervista.org/aowow/?item=44101) both factions (mail hunter)  
 [Champion Herod's Shoulder](https://wowgaming.altervista.org/aowow/?item=42950) both factions  
   
-CHEST ITEMS:  
+#### CHEST ITEMS
 [Champion Deathdealer's Breastplate](https://wowgaming.altervista.org/aowow/?item=48677) both factions (mail hunter)  
 [Polished Breastplate of Valor](https://wowgaming.altervista.org/aowow/?item=48685) both factions (plate)  
 [Stained Shadowcraft Tunic](https://wowgaming.altervista.org/aowow/?item=48689) both factions (leather)  
@@ -164,15 +178,15 @@ CHEST ITEMS:
 [Toughened Leather Armor](https://wowgaming.altervista.org/aowow/?item=2314) both factions  
 [Tunic of Westfall](https://wowgaming.altervista.org/aowow/?item=2041) alliance only  
   
-BRACERS:  
+#### BRACERS
 [Forrest Leather Bracers](https://wowgaming.altervista.org/aowow/?item=3202) both factions (leather)  
 [Cavedweller bracers](https://wowgaming.altervista.org/aowow/?item=14147) both factions (mail)  
   
-GLOVES:  
+#### GLOVES
 [Gloves of the Fang](https://wowgaming.altervista.org/aowow/?item=10413) both factions (leather)  
 [Thorbia's Gauntlents](https://wowgaming.altervista.org/aowow/?item=12994) both factions (mail)  
   
-LEGGS  
+#### LEGS
 [Leggings of the Fang](https://wowgaming.altervista.org/aowow/?item=10410) both factions (leather, but could be used by mail classes)  
 [Smelting Pants](https://wowgaming.altervista.org/aowow/?item=5199) both factions  
 [Bandit Pants](https://wowgaming.altervista.org/aowow/?item=9781) of Power (+16 atk power) - both factions  
@@ -182,13 +196,13 @@ LEGGS
 [Grunt's Legguards](https://wowgaming.altervista.org/aowow/?item=15511) both factions, of the bear (this item gives more armor than other menitoned greens)  
 [Chausses of Westfall](https://wowgaming.altervista.org/aowow/?item=6087) alliance only - it's by far the best item in this slot  
 
-BOOTS:  
+#### BOOTS
 [Footpads of the Fang](https://wowgaming.altervista.org/aowow/?item=10411) both factions (leather)  
 [Feet of the Lynx](https://wowgaming.altervista.org/aowow/?item=1121) both factions  
 [Silver Linked Footguards](https://wowgaming.altervista.org/aowow/?item=12982) both factions (mail)  
 [Savage Trodders](https://wowgaming.altervista.org/aowow/?item=6459) both factions  
 
-WEAPONS:  
+#### WEAPONS
 [Bloodied Arcanite Reaper](https://wowgaming.altervista.org/aowow/?item=42943) (warrior, paladin)  
 [NIght Reaver](https://wowgaming.altervista.org/aowow/?item=1318) (warrior, paladin)  
 [Runic Darkblade](https://wowgaming.altervista.org/aowow/?item=3822) (warrior, paladin) for horde  
@@ -202,7 +216,7 @@ WEAPONS:
 
 rest are pretty much crappy weapons that you can get for honor for starting your way to 19s glory ;)  
 
-BOWS/GUNS & SHIELDS:  
+#### BOWS/GUNS & SHIELDS
 [Arctic Buckler](https://wowgaming.altervista.org/aowow/?item=7002) both factions, i would never use this one on any class but many ppl use it so I listed it  
 [Redbeard Crest](https://wowgaming.altervista.org/aowow/?item=12997) both factions (warrior, paladin)  
 [Forrest Buckler](https://wowgaming.altervista.org/aowow/?item=6383) both factions (shaman, paladin healer)  
@@ -215,64 +229,64 @@ BOWS/GUNS & SHIELDS:
 
 ### Caster gear  
 
-RING:  
+#### RINGS
   
 [Advisor's Ring](https://wowgaming.altervista.org/aowow/?item=19519) for horde  
 [Lorekeeper's Ring](https://wowgaming.altervista.org/aowow/?item=20431) for alliance  
 [Bronze Band of Force](https://wowgaming.altervista.org/aowow/?item=30804) both factions  
 [Lavishly Jeweled Ring](https://wowgaming.altervista.org/aowow/?item=1156) both factions  
 
-NECK:  
+#### NECK
 [Thick Bronze Necklace](https://wowgaming.altervista.org/aowow/?item=21933) both factions  
 [Voice Amplification Modulator](https://wowgaming.altervista.org/aowow/?item=16009) both factions  
 
-BRACERS:  
+#### BRACERS
 [Crystalline Cuffs](https://wowgaming.altervista.org/aowow/?item=14148) both factions  
 [Pagan Bands](https://wowgaming.altervista.org/aowow/?item=14160)of the Fiery Wrath (+6 sp)  
 
-CHEST:  
+#### CHEST
 [Inferno Robe](https://wowgaming.altervista.org/aowow/?item=2231) both factions  
 You can use heriloom chests too but this one is by far the best one because you can ench it with TBC enchants.  
   
-CLOAK:  
+#### CLOAK
 [Tumultuous Cloak](https://wowgaming.altervista.org/aowow/?item=51994) of Sorcerer - both factions  
 [Spidersilk Drape](https://wowgaming.altervista.org/aowow/?item=45626) both factions  
 [Feyscale Cloak](https://wowgaming.altervista.org/aowow/?item=6632) both factions  
 
-SHOULDER ITEMS:  
+#### SHOULDER ITEMS
 [Exquisite Sunderseer Mantle](https://wowgaming.altervista.org/aowow/?item=44107) both factions  
 [Tattered Dreadmist Mantle](https://wowgaming.altervista.org/aowow/?item=42985) both factions  
 [Talbar Mantle](https://wowgaming.altervista.org/aowow/?item=10657) both factions (not BiS, but can be good untill you get heirloom)  
 [Reinforced Woolen Shoulders](https://wowgaming.altervista.org/aowow/?item=4315) same story as for Talbar Mantle  
 [Mystical Pauldrons of Elements](https://wowgaming.altervista.org/aowow/?item=42951) both factions (mail shaman)  
 
-GLOVES:  
+#### GLOVES
 [Gold-flecked Gloves](https://wowgaming.altervista.org/aowow/?item=5195) both factions  
 [Serpent Gloves](https://wowgaming.altervista.org/aowow/?item=5970) both factions  
 [Jutebraid Gloves](https://wowgaming.altervista.org/aowow/?item=10654) horde only item. Gives more armor than two above listed items.  
 
-BELTS:  
+#### BELTS
 [Enumerated Wrap](https://wowgaming.altervista.org/aowow/?item=51968) of the Sorcerer; alliance  
 [Vigorous Belt](https://wowgaming.altervista.org/aowow/?item=51964) of the Sorcerer, horde  
 [Girdle of the Blindwatcher](https://wowgaming.altervista.org/aowow/?item=6319) both faction. Good until you get first mentioned belt  
 [Keller's Girdle](https://wowgaming.altervista.org/aowow/?item=2911) both factions. Popular starter choice  
 
-LEGGS:  
+#### LEGS
 [Drakweave Breaches](https://wowgaming.altervista.org/aowow/?item=12987) both factions  
 [Shimmering Trousers](https://wowgaming.altervista.org/aowow/?item=6568) of Fiery Wrath (+11 firespell dmg) of Healing ( +18 healing sp). both factions  
 [Sacred Burial Trousers](https://wowgaming.altervista.org/aowow/?item=6282) horde only  
 
-BOOTS:  
+#### BOOTS
 [Spidersilk Boots](https://wowgaming.altervista.org/aowow/?item=4320) both factions  
   
-TRINKET:  
+#### TRINKET
 [Discerning Eye of the Beast](https://wowgaming.altervista.org/aowow/?item=42992) both factions (it's advisable that you have 2 of those, since you can switch it with pvp trinket while it's on cooldown and get more spellpower)  
 
-WANDS:  
+#### WANDS
 [Banshee Rod](https://wowgaming.altervista.org/aowow/?item=31270) of the Sun (+1 sta spi sp) of the Moon (+1 sta spi int). I might be wrong about those random ench stats but those 2 enchs are best. If you get any other farm the mob more so you get one of two mentioned. both factions  
 [Gravestone Scepter](https://wowgaming.altervista.org/aowow/?item=7001) both factions  
   
-WEAPONS & OFFHANDS:  
+#### WEAPONS & OFFHANDS
 [Dignified Headmaster's Charge](https://wowgaming.altervista.org/aowow/?item=42947) both factions  
 [Grand Staff of Jordan](https://wowgaming.altervista.org/aowow/?item=44095) both factions  
 [Crescent Staff](https://wowgaming.altervista.org/aowow/?item=6505) horde only (nice staff for starter)  
@@ -292,7 +306,7 @@ Moving onto next thing.
 
 ## Enchanting suggestions
   
-Enchants for rogue/hunter/enhancement shaman:  
+#### Enchants for rogue/hunter/enhancement shaman
 
 Chest - 100 hp or +4 stats  
 Cloak - 3agi or 12 dodge rating.  
@@ -303,7 +317,7 @@ Boots - 7agi or minor speed enchant, if you prefer more hp than pick 7sta
 Weapon - Rogue can benefit from every single enchantment if he can use it right (15agi, fiery, crusader and unholy). Huners should stick to 25 agi on weapon.  
 Bow - scope +2 dmg  
 
-Enchants for warrior/paladin:  
+#### Enchants for warrior/paladin
 
 Chest - 100hp or +4stats (whatever you like more dmg or hp)  
 Cloak - 70armor  
@@ -318,7 +332,7 @@ Ranged - scope +2 dmg
 note: paladins that are focused on healing can enchant their gear as casters. It's rare to see on our server, tough...  
 
 
-Enchants for priest/mage/warlock/druid/elemental shaman:  
+#### Enchants for priest/mage/warlock/druid/elemental shaman
 
 Chest: since Inferno Robe is item lv40 you can enchant it with +6 stats or +150hp  
 Cloak: 70 armor  
@@ -339,7 +353,7 @@ _Cooking_ - Less popular and really underrated profession. True lv19 will always
 [Goblin Deviled Clams](https://wowgaming.altervista.org/aowow/?item=5527) most commonly used food buff.  
 [Lean Wolf Steak](https://wowgaming.altervista.org/aowow/?item=12209) very easy to make cuz it's often drop from SFK mobs and wolves all over the world  
 
-It appear that links for Pilgrim's Bounty recipes are not working so I'll just put it like this:  
+It appears that links for Pilgrim's Bounty recipes are not working so I'll just put it like this:  
 There few mats that can purchased from event vendors. They last for 7days (real time). If you stock up on those mats and send them to your bank char and use it ONLY when really needed you can have following buffs for almost 2months:  
 
 6sta + 6 hit rating  
