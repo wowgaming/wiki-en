@@ -56,11 +56,11 @@ Night Elfs - it's just hillarious to see those alliance guys playing damn GNOME 
 Warlock:  
 - horde choice:  
 Blood Elf: mana regen racial + silence to nearby casters = sexy stuff  
-Undead: if you cast shadow dmg than it's nice to be ressistant to that one ![;)](./images/smilies/icon_e_wink.gif "Wink") plus you can remove fear from you making you look like a true master of your magic. This race makes you ultimate lock - resistant to what you actually do = EPIC imo  
+Undead: if you cast shadow dmg than it's nice to be ressistant to that one ;) plus you can remove fear from you making you look like a true master of your magic. This race makes you ultimate lock - resistant to what you actually do = EPIC imo  
 
 - alliance choice:  
 Human - booooring ehh? that trinket thingy again  
-Gnome - not best choice but it's only one you can afford if you dont like humans ![;)](./images/smilies/icon_e_wink.gif "Wink") can get you some extra mana which is nice too  
+Gnome - not best choice but it's only one you can afford if you dont like humans ;) can get you some extra mana which is nice too  
 
 Mage:  
 - horde choice:  
@@ -76,7 +76,7 @@ Blood Elf: it's racial is simply the best choice for any caster in 19s - end of 
 
 - alliance choice:  
 Human: 2 agm = 240 hp or more spellpower with x2 heriloom trinkets. This is possible due to racial pvp trinket  
-Draenei: Still with all benefits of human race 100% of alliance priests are draenei. Why? Extra healing spell, that's low if you ask me ![;)](./images/smilies/icon_e_wink.gif "Wink")  
+Draenei: Still with all benefits of human race 100% of alliance priests are draenei. Why? Extra healing spell, that's low if you ask me ;)  
   
 Hunter:  
 - horde choice:  
@@ -192,7 +192,7 @@ WEAPONS:
 [Sharpened Scarlet Kris](http://wotlk.openwow.com/item=44091) both factions  
 [Assasin's Blade](http://wotlk.openwow.com/item=1935) both factions, best weapon for rogue's opening hits  
 
-rest are pretty much crappy weapons that you can get for honor for starting your way to 19s glory ![;)](./images/smilies/icon_e_wink.gif "Wink")  
+rest are pretty much crappy weapons that you can get for honor for starting your way to 19s glory ;)  
 
 BOWS/GUNS & SHIELDS:  
 [Arctic Buckler](http://wotlk.openwow.com/item=7002) both factions, i would never use this one on any class but many ppl use it so I listed it  
@@ -201,7 +201,7 @@ BOWS/GUNS & SHIELDS:
 
 [Charmed Ancient Bone Bow](http://wotlk.openwow.com/item=42946) both factions (best thing for rogues, yea... belive me it is )  
 [Venomstrike](http://wotlk.openwow.com/item=6469) both factions ( some hunters stick to this one mostly cuz of "green text" thing)  
-[Lil' Timmy's Peashoter](http://wotlk.openwow.com/item=13136) both factions ( saw some dwarfs using this ![;)](./images/smilies/icon_e_wink.gif "Wink") )  
+[Lil' Timmy's Peashoter](http://wotlk.openwow.com/item=13136) both factions ( saw some dwarfs using this ;) )  
 [Upgraded Dwarf Handcannon](http://wotlk.openwow.com/item=44093) both factions ( but true dwarfs use this ![:twisted:](./images/smilies/icon_twisted.gif "Twisted Evil") )  
 **  
 
@@ -444,7 +444,7 @@ However +4 is nice for non loom weapons and mostly used by rogues. Warriors and 
 11\. Felsteel & Thorium Shield spikes  
 [http://wotlk.openwow.com/item=23530](http://wotlk.openwow.com/item=23530) & [http://wotlk.openwow.com/item=12645](http://wotlk.openwow.com/item=12645)  
 
-Not much to explain, only much to wonder how people rarely use this ![;)](./images/smilies/icon_e_wink.gif "Wink") Buy enchantment and apply it to shield. It WORKS and it's legal even tough it's from TBC.  
+Not much to explain, only much to wonder how people rarely use this ;) Buy enchantment and apply it to shield. It WORKS and it's legal even tough it's from TBC.  
   
 12\. Greater & Lesser runes of warding  
 [http://wotlk.openwow.com/item=25521](http://wotlk.openwow.com/item=25521) & [http://wotlk.openwow.com/item=23559](http://wotlk.openwow.com/item=23559)  
