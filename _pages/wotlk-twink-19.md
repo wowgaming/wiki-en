@@ -19,14 +19,14 @@ agm = [Arena Grand Master](http://wotlk.openwow.com/item=19024)
 BiS = Best In Slot, item that you will probably never replace  
 lb = [Lifeblood](http://wotlk.openwow.com/spell=55500)  
 
-## WHY WOULD YOU MAKE LV19 CHARACTER
+## Why would you make a level 19 character
 
 Simple: CHALLENGE!  
 You start with nothing and you end up with little = chalange. True fun about 19s is making something out of nothing. Many people say that its 2 button smashing bracket and it's truly not. I have 3 bars filled with hotkeys and 3 bars filled some other stuff to avoid complication while buffing myself with scrolls and food/drinks. I really have no intension on prooving those guys wrong, if someone wants a proof PM me I'll write you down list of my hotkeys and how frequently they are used. I'm sure you will be impressed how developed can rogue's combat be at lv19\.  
 To back up my story I'll just say that yesterday in Gurubashi Arena I defeated 2 lv80s (dk & warr) and lv74 (paladin) while defending my friend to get AGM trinket, and than they came back again and died again and again and again... I went oom and some lock came and killed me in the end. I used like 3-4 keys the most as shadow priest. Those who know me, know how active that priest is and what mess is his UI, still it was piece of cake to fight vs them. Combat as lv19 rog is alot more complicated than the one I ever had on that priest mostly cuz of handicaps you are faced with and improvisations you gotta make to get something more out of it. It's not same for every class tough.  
 However, in this guide I will show you how to find solutions to some of handicaps of your class and with some of them you can turn your warrior into a class with lay on hands spell that casts aoe fire spells, firebolts, nets and has a combat pet. Sounds interesting ??? I know it does. It's the beauty of lv19 where those minor hidden things in game, that have no place in 80 content, here can play a big role in duel or bg outcome. ( this will be covered in last part of guide )  
 
-## RACE / CLASS COMBINATIONS 
+## Race / Class combinations 
 
 Every class has it's best fitting race, we all know that but we dont always stick to that rule. Myself included hehe  
 Here is the list of best race/class combos which can mostly be applied to any bracket. Still in lv19 it kinda plays bigger role than in other brackets mostly because you will be using your racial more often than in any other bracket. Also important thing to take in consideration is base stats of each race. Pick the one that fits your class the most, unless you really don't like the "looks" of it.  
@@ -110,7 +110,7 @@ Tauren wins by default
 - alliance choice:  
 Draenei... ohhh wait ![:P](./images/smilies/icon_razz.gif "Razz") luckily they can't add one more heal to druids... Night elfs win by default ![:twisted:](./images/smilies/icon_twisted.gif "Twisted Evil")  
 
-## GEAR LISTS
+## Gear lists
 
 I wont make usual gear lists like you've seen in random guides all over internet. I'll do it on "my own way".  
 Here is the list of items that are mostly used by all classes, those stuff are considered MUST HAVE for 99% of 19lvs. For more information about where to get each item just click the link. Items are listed as general stuff for everyone, non-caster and caster items. Just browse trough list and see what fits you the most. Don't follow anyone's rules - your style is the best style if you enjoy playing it :  
@@ -289,8 +289,8 @@ WEAPONS & OFFHANDS:
 That's it "gearwise"... feel free to remind me if missed something. I'll edit post and add it if I feel it's worth it.  
 Moving onto next thing.  
 
-## ENCHANTING SUGGESTIONS
 
+## Enchanting suggestions
   
 Enchants for rogue/hunter/enhancement shaman:  
 
@@ -328,7 +328,8 @@ Legs: +16 armor leatherworking enchant
 Boots: 7sta  
 Weapon: 30spell power  
 
-## PROFESSIONS
+
+## Professions
 
 _First Aid_ - this is simply a must have profession and get it skilled up asap. Heavy Runecloth Bandage will heal up most of 19s from 1hp to full in no time.  
 
@@ -377,7 +378,7 @@ Here is the list of what you can use at this level (gonna list only the highest 
 Other proffesions are basicly useless... seriously.  
 
  
-## "SECRET" AND RARELY SEEN STUFF  
+## "Secret" and rarely seen stuff
 
 Finaly, we come to most interesting part of this huge post. All above mentioned is pretty much known and covered in many other guides but I took my time to write it down so our server can maybe become some source of wotlk twinking info.  
 
