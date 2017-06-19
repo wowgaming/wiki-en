@@ -9,14 +9,14 @@ Also I think it's your personal choice what will your do with your talent points
 Some terms you might not be familiar with:  
 agm = [Arena Grand Master](http://wotlk.openwow.com/item=19024)  
 BiS = Best In Slot, item that you will probably never replace  
-lb = [Lifeblood](http://wotlk.openwow.com/spell=55500)**  
+lb = [Lifeblood](http://wotlk.openwow.com/spell=55500)  
 
 ## WHY WOULD YOU MAKE LV19 CHARACTER
 
-**Simple: CHALLENGE!**  
-**You start with nothing and you end up with little = chalange. True fun about 19s is making something out of nothing. Many people say that its 2 button smashing bracket and it's truly not. I have 3 bars filled with hotkeys and 3 bars filled some other stuff to avoid complication while buffing myself with scrolls and food/drinks. I really have no intension on prooving those guys wrong, if someone wants a proof PM me I'll write you down list of my hotkeys and how frequently they are used. I'm sure you will be impressed how developed can rogue's combat be at lv19\.  
+Simple: CHALLENGE!  
+You start with nothing and you end up with little = chalange. True fun about 19s is making something out of nothing. Many people say that its 2 button smashing bracket and it's truly not. I have 3 bars filled with hotkeys and 3 bars filled some other stuff to avoid complication while buffing myself with scrolls and food/drinks. I really have no intension on prooving those guys wrong, if someone wants a proof PM me I'll write you down list of my hotkeys and how frequently they are used. I'm sure you will be impressed how developed can rogue's combat be at lv19\.  
 To back up my story I'll just say that yesterday in Gurubashi Arena I defeated 2 lv80s (dk & warr) and lv74 (paladin) while defending my friend to get AGM trinket, and than they came back again and died again and again and again... I went oom and some lock came and killed me in the end. I used like 3-4 keys the most as shadow priest. Those who know me, know how active that priest is and what mess is his UI, still it was piece of cake to fight vs them. Combat as lv19 rog is alot more complicated than the one I ever had on that priest mostly cuz of handicaps you are faced with and improvisations you gotta make to get something more out of it. It's not same for every class tough.  
-However, in this guide I will show you how to find solutions to some of handicaps of your class and with some of them you can turn your warrior into a class with lay on hands spell that casts aoe fire spells, firebolts, nets and has a combat pet. Sounds interesting ??? I know it does. It's the beauty of lv19 where those minor hidden things in game, that have no place in 80 content, here can play a big role in duel or bg outcome. ( this will be covered in last part of guide )**  
+However, in this guide I will show you how to find solutions to some of handicaps of your class and with some of them you can turn your warrior into a class with lay on hands spell that casts aoe fire spells, firebolts, nets and has a combat pet. Sounds interesting ??? I know it does. It's the beauty of lv19 where those minor hidden things in game, that have no place in 80 content, here can play a big role in duel or bg outcome. ( this will be covered in last part of guide )  
 
 ## RACE / CLASS COMBINATIONS 
 
@@ -100,82 +100,82 @@ Druid:
 Tauren wins by default  
 
 - alliance choice:  
-Draenei... ohhh wait ![:P](./images/smilies/icon_razz.gif "Razz") luckily they can't add one more heal to druids... Night elfs win by default ![:twisted:](./images/smilies/icon_twisted.gif "Twisted Evil")**  
+Draenei... ohhh wait ![:P](./images/smilies/icon_razz.gif "Razz") luckily they can't add one more heal to druids... Night elfs win by default ![:twisted:](./images/smilies/icon_twisted.gif "Twisted Evil")  
 
 ## GEAR LISTS
 
-**I wont make usual gear lists like you've seen in random guides all over internet. I'll do it on "my own way".  
-Here is the list of items that are mostly used by all classes, those stuff are considered MUST HAVE for 99% of 19lvs. For more information about where to get each item just click the link. Items are listed as general stuff for everyone, non-caster and caster items. Just browse trough list and see what fits you the most. Don't follow anyone's rules - your style is the best style if you enjoy playing it :**  
+I wont make usual gear lists like you've seen in random guides all over internet. I'll do it on "my own way".  
+Here is the list of items that are mostly used by all classes, those stuff are considered MUST HAVE for 99% of 19lvs. For more information about where to get each item just click the link. Items are listed as general stuff for everyone, non-caster and caster items. Just browse trough list and see what fits you the most. Don't follow anyone's rules - your style is the best style if you enjoy playing it :  
   
 General items without class requirements:  
   
 HEAD SLOT ITEMS AND TRINKETS  
 
-**[Arena Grandmaster Trinket](http://wotlk.openwow.com/item=19024) for everyone on both factions  
+[Arena Grandmaster Trinket](http://wotlk.openwow.com/item=19024) for everyone on both factions  
 
 [Inherited Insignia of Horde](http://wotlk.openwow.com/item=44097) or non-heirloom version until you can afford this one. Same item is available in alliance edition too.  
 
 [Lucky Fishing Hat](http://wotlk.openwow.com/item=19972) both factions ( until you get it, use eng. head items)  
 
-[Minor Recombobulator](http://wotlk.openwow.com/item=4381) both factions**  
+[Minor Recombobulator](http://wotlk.openwow.com/item=4381) both factions  
 
 ### Non-caster gear  
 
 RINGS & NECK ITEMS:  
-**[Legionnaire's Band](http://wotlk.openwow.com/item=19511) for horde  
+[Legionnaire's Band](http://wotlk.openwow.com/item=19511) for horde  
 [Seal of Syvanas](http://wotlk.openwow.com/item=6414) for horde  
 [Protector's Band](http://wotlk.openwow.com/item=19515) for alliance  
-[Seal of Wrynn](http://wotlk.openwow.com/item=2933) for alliance**  
+[Seal of Wrynn](http://wotlk.openwow.com/item=2933) for alliance  
 
-**[Scout's Medallion](http://wotlk.openwow.com/item=20442) for horde  
-[Sentinel's Medallion](http://wotlk.openwow.com/item=20444) for alliance**  
+[Scout's Medallion](http://wotlk.openwow.com/item=20442) for horde  
+[Sentinel's Medallion](http://wotlk.openwow.com/item=20444) for alliance  
 
 CLOAKS & BELTS:  
-**[Tumultuous Cloak](http://wotlk.openwow.com/item=51994) both factions, (enchant depents on your class. best ones are "of bandit" and "soldier" imo)  
+[Tumultuous Cloak](http://wotlk.openwow.com/item=51994) both factions, (enchant depents on your class. best ones are "of bandit" and "soldier" imo)  
 [Earthbound Girdle](http://wotlk.openwow.com/item=51978) both factions (of the soldier)  
-**  
-**[Sentry Cloak](http://wotlk.openwow.com/item=2059) both factions; decent starter stuff  
+  
+[Sentry Cloak](http://wotlk.openwow.com/item=2059) both factions; decent starter stuff  
 [Deviate Scale Belt](http://wotlk.openwow.com/item=6468) both factions  
 [Glowing Lizardscale Cloak](http://wotlk.openwow.com/item=6449) both factions  
-[Miner's Cape](http://wotlk.openwow.com/item=5444) both factions**  
+[Miner's Cape](http://wotlk.openwow.com/item=5444) both factions  
   
 SHOULDER ITEMS:  
-**[Stained Shadowcraft Spaulders](http://wotlk.openwow.com/item=42952) both factions (leather - rogue mostly)  
+[Stained Shadowcraft Spaulders](http://wotlk.openwow.com/item=42952) both factions (leather - rogue mostly)  
 [Exceptional Stormshroud Shoulders](http://wotlk.openwow.com/item=44103) both factions  
 [Serpent's Shoulders](http://wotlk.openwow.com/item=5404) both factions  
 [Strenghtened Stockade Pauldrons](http://wotlk.openwow.com/item=44099) both factions  
 [Rough Bronze Shoulders](http://wotlk.openwow.com/item=3480) both factions  
 [Prized Beastmaster's Mantle](http://wotlk.openwow.com/item=44101) both factions (mail hunter)  
 [Champion Herod's Shoulder](http://wotlk.openwow.com/item=42950) both factions  
-**  
+  
 CHEST ITEMS:  
-**[Champion Deathdealer's Breastplate](http://wotlk.openwow.com/item=48677) both factions (mail hunter)  
+[Champion Deathdealer's Breastplate](http://wotlk.openwow.com/item=48677) both factions (mail hunter)  
 [Polished Breastplate of Valor](http://wotlk.openwow.com/item=48685) both factions (plate)  
 [Stained Shadowcraft Tunic](http://wotlk.openwow.com/item=48689) both factions (leather)  
 [Blackened Defias Armor](http://wotlk.openwow.com/item=10399) both factions  
 [Toughened Leather Armor](http://wotlk.openwow.com/item=2314) both factions  
 [Tunic of Westfall](http://wotlk.openwow.com/item=2041) alliance only  
-**  
+  
 BRACERS:  
-**[Forrest Leather Bracers](http://wotlk.openwow.com/item=3202) both factions (leather)  
+[Forrest Leather Bracers](http://wotlk.openwow.com/item=3202) both factions (leather)  
 [Cavedweller bracers](http://wotlk.openwow.com/item=14147) both factions (mail)  
-**  
+  
 GLOVES:  
-**[Gloves of the Fang](http://wotlk.openwow.com/item=10413) both factions (leather)  
+[Gloves of the Fang](http://wotlk.openwow.com/item=10413) both factions (leather)  
 [Thorbia's Gauntlents](http://wotlk.openwow.com/item=12994) both factions (mail)  
-**  
+  
 LEGGS  
-**[Leggings of the Fang](http://wotlk.openwow.com/item=10410) both factions (leather, but could be used by mail classes)  
+[Leggings of the Fang](http://wotlk.openwow.com/item=10410) both factions (leather, but could be used by mail classes)  
 [Smelting Pants](http://wotlk.openwow.com/item=5199) both factions  
 [Bandit Pants](http://wotlk.openwow.com/item=9781) of Power (+16 atk power) - both factions  
 [Mighty Chain Pants](http://wotlk.openwow.com/item=4800) both factions, (mail)  
 [Defender Leggings](http://wotlk.openwow.com/item=6578) both factions , of the bear  
 [Outrunner's Legguards](http://wotlk.openwow.com/item=15503) both factions, of the bear  
 [Grunt's Legguards](http://wotlk.openwow.com/item=15511) both factions, of the bear (this item gives more armor than other menitoned greens)  
-[Chausses of Westfall](http://wotlk.openwow.com/item=6087) alliance only - it's by far the best item in this slot**  
+[Chausses of Westfall](http://wotlk.openwow.com/item=6087) alliance only - it's by far the best item in this slot  
 
 BOOTS:  
-**[Footpads of the Fang](http://wotlk.openwow.com/item=10411) both factions (leather)  
+[Footpads of the Fang](http://wotlk.openwow.com/item=10411) both factions (leather)  
 [Feet of the Lynx](http://wotlk.openwow.com/item=1121) both factions  
 [Silver Linked Footguards](http://wotlk.openwow.com/item=12982) both factions (mail)  
 [Savage Trodders](http://wotlk.openwow.com/item=6459) both factions  
@@ -203,19 +203,19 @@ BOWS/GUNS & SHIELDS:
 [Venomstrike](http://wotlk.openwow.com/item=6469) both factions ( some hunters stick to this one mostly cuz of "green text" thing)  
 [Lil' Timmy's Peashoter](http://wotlk.openwow.com/item=13136) both factions ( saw some dwarfs using this ;) )  
 [Upgraded Dwarf Handcannon](http://wotlk.openwow.com/item=44093) both factions ( but true dwarfs use this ![:twisted:](./images/smilies/icon_twisted.gif "Twisted Evil") )  
-**  
+  
 
 ### Caster gear  
 
 RING:  
-**  
+  
 [Advisor's Ring](http://wotlk.openwow.com/item=19519) for horde  
 [Lorekeeper's Ring](http://wotlk.openwow.com/item=20431) for alliance  
 [Bronze Band of Force](http://wotlk.openwow.com/item=30804) both factions  
-[Lavishly Jeweled Ring](http://wotlk.openwow.com/item=1156) both factions**  
+[Lavishly Jeweled Ring](http://wotlk.openwow.com/item=1156) both factions  
 
 NECK:  
-**[Thick Bronze Necklace](http://wotlk.openwow.com/item=21933) both factions  
+[Thick Bronze Necklace](http://wotlk.openwow.com/item=21933) both factions  
 [Voice Amplification Modulator](http://wotlk.openwow.com/item=16009) both factions  
 
 BRACERS:  
@@ -279,11 +279,11 @@ WEAPONS & OFFHANDS:
 [Grizzly Buckler](http://wotlk.openwow.com/item=15298)of Healing (+2sp)  
 
 That's it "gearwise"... feel free to remind me if missed something. I'll edit post and add it if I feel it's worth it.  
-Moving onto next thing.**  
+Moving onto next thing.  
 
 ## ENCHANTING SUGGESTIONS
 
-**  
+  
 Enchants for rogue/hunter/enhancement shaman:  
 
 Chest - 100 hp or +4 stats  
@@ -318,7 +318,7 @@ Bracers: 15spell power
 Gloves: Here is tricky part. Best thing for priest and druid is 16sp. For lock I would advise "shadow spell power +20 ench". For mage "frost or fire spell dmg +20" depending on what spell mage is using the most.  
 Legs: +16 armor leatherworking enchant  
 Boots: 7sta  
-Weapon: 30spell power**  
+Weapon: 30spell power  
 
 ## PROFESSIONS
 
@@ -366,7 +366,7 @@ Here is the list of what you can use at this level (gonna list only the highest 
 [Scroll of Intellect II](http://wotlk.openwow.com/item=2290)  
 [Scroll of Spirit II](http://wotlk.openwow.com/item=1712) use it only when you are out of any above mentioned. 5 spirit at this point of game makes very little or no difference at all.  
 
-Other proffesions are basicly useless... seriously.**  
+Other proffesions are basicly useless... seriously.  
 
  
 ## "SECRET" AND RARELY SEEN STUFF  
@@ -480,4 +480,4 @@ I hope this post will become some sort of "advertisment of our server" among the
 
 I would apreciate if you guys keep your "negativity" out of this topic (especially one person) because this has a potentital to become more than just another forum post. Lets work together to make it better instead of spreading hates and driving away potential new players who might read this and give our server a shot.  
 
-Thanks for reading... it's 00:49 now and I started writing in 10:12\. Nicey... my eyes are screwed.**
+Thanks for reading... it's 00:49 now and I started writing in 10:12\. Nicey... my eyes are screwed.
