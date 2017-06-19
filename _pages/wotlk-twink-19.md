@@ -31,9 +31,9 @@ However, in this guide I will show you how to find solutions to some of handicap
 Every class has it's best fitting race, we all know that but we dont always stick to that rule. Myself included hehe  
 Here is the list of best race/class combos which can mostly be applied to any bracket. Still in lv19 it kinda plays bigger role than in other brackets mostly because you will be using your racial more often than in any other bracket. Also important thing to take in consideration is base stats of each race. Pick the one that fits your class the most, unless you really don't like the "looks" of it.  
 
-![Image](http://i.imgur.com/i6T0SGe.jpg)  
+![Image](http://www.wowgaming.org/wiki-en/assets/images/twink19/twink19-alliance.jpg)
 
-![Image](http://i.imgur.com/JNNlcgX.jpg)  
+![Image](http://www.wowgaming.org/wiki-en/assets/images/twink19/twink19-horde.jpg)
 
 Warrior:  
 - horde choice:  
@@ -407,7 +407,7 @@ Check the comments section on wowhead link for more informations about it:
 
 I have never seen someone using this in 19s wsg and it's something that's easy to make. 40 melee and sp dmg reduce is just awesome plus 20% movement speed reduce to stop players runing away = simply must have stuff and none is using it. I'm really surprised by that.  
 However... the FUN factor of this item is priceless!!! Alliance tend to use that transformation item into red hulking ogre and than act like "big bosses" yelling around and trying to indimidate us with their pressence.  
-We just loled so hard once I used this on Djambru and Aeglos and turned their huge ogres into little ugly gnomes hahaha... priceless I tell ya ![:)](./images/smilies/icon_e_smile.gif "Smile")  
+We just loled so hard once I used this on Djambru and Aeglos and turned their huge ogres into little ugly gnomes hahaha... priceless I tell ya :D
 
 5\. Explosive Rocket  
 [https://wowgaming.altervista.org/aowow/?item=1178](https://wowgaming.altervista.org/aowow/?item=1178)  
@@ -437,10 +437,13 @@ Hard to get since you need your faction to control Nagrand pvp objectives, and y
 Remember me talking about warrior with Lay on Hands spell ? You tought I'm crazy, I'm sure about it haha! Well just take a look at this item again and you will see that it instantly regenerates full hp of every 19lv character you ever saw... (well, maybe not Pyro's lol).  
 Geting this item requires alot of patience. First thing you need to do is to farm Depleted Crystal Focus ([https://wowgaming.altervista.org/aowow/?item=32576](https://wowgaming.altervista.org/aowow/?item=32576) ) with your 70+ character. Check where it drops on provided link Than send it to your 19lv. After that you will need warlock and 2 guys to summon you to Ogri'la in Blade's Edge Mountains. In case you can't find anyone to provide summon or take you to "pink spot on second picture" on 2 seater mount, I have a solution that is kinda hardcore.  
 You will have to travel to Ogri'la on foot. Now you probably think "but there is no way I can get there." Well actually it is. I've done it countless times and I'll show you how:  
+
 Make your way from Shatrath to Zangarmarsh than follow routes on images:  
-[![Image](http://s1.postimg.org/xwusx01yz/image.jpg)](http://postimg.org/image/xwusx01yz/)  
+![Image](http://www.wowgaming.org/wiki-en/assets/images/twink19/twink19-map1.jpg)
+
 after that make your way trough cave to Blade's Edge and follow next route:  
-[![Image](http://s13.postimg.org/65mrmpeir/image.jpg)](http://postimg.org/image/65mrmpeir/)  
+![Image](http://www.wowgaming.org/wiki-en/assets/images/twink19/twink19-map2.jpg)
+
 Once you are there farm Apexis Shard ([https://wowgaming.altervista.org/aowow/?item=32569](https://wowgaming.altervista.org/aowow/?item=32569)) from nearby crystal veins. It's really easy cuz mobs are not hostile. Combine 10 shards with 1 depleted crystal charge to get 1 Crystal Charge Focus.  
 Lot of work but totaly worth it!  
 
@@ -471,8 +474,10 @@ I go to "who list" and look for players in desolace, than ask them to go for Gel
 
 Who said that lv19 rogue can't have posion, or any other class lol?? Get your char to Un'goro, find Venomhide Ravasaur, keep on attacking him until he coats your weapons with this poison and that's it. People tend to send their looms on highlv char and do this, but I found a way to poison even other weapons that are not heirlooms. Here is how:  
 For first time you will need to make flightpaths all the way from Orgrimmar or Thunderbluff to Marshal's Refuge camp. Just ask someone to escort you on 2 seater mount. I bet you dont want to explore the zones like I did, so it's no point in walking.  
-If you have friend that will take you there it's piece of cake, but what happens if you want poisons and you buddy is not online. Follow this route and you will stay alive until you reach your mob:  
-[![Image](http://s2.postimg.org/jq5e1xb5h/ungorocrater.jpg)](http://postimg.org/image/jq5e1xb5h/)  
+If you have friend that will take you there it's piece of cake, but what happens if you want poisons and you buddy is not online. Follow this route and you will stay alive until you reach your mob: 
+
+![Image](http://www.wowgaming.org/wiki-en/assets/images/twink19/twink19-map3.jpg)
+
 Dont be "afraid" of dying to those ravasaur. Be prepared to totaly destroy your gear since sometimes it can take several deaths for posions to coat you weapons. Sometimes its gonna take 2mins sometimes 2hours... make sure you praise the lady luck before venturing to Un'goro. It lasts NINE HOURS and it deals 15dmg per tick but it stacks up to 3 times making it 45dmg per tick. That's huge if you ask me, especially if there are more guys with poison in same team. I wouldn't like to be in the skin of a guy attacked by 2-3 players with venomhide poison on their weapons.  
 
 15\. Iron Boot Flask  
