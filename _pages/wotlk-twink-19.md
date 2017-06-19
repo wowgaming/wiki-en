@@ -1,7 +1,15 @@
-Original tutorial written by Arraj aka Sheena of the Warsong Clan, in real life Aleksandra. May you rest in peace, champion!
+# The ultimate, in-depth guide to level 19 character (WOTLK)
+
+This tutorial has been originally written by **Arraj** aka **Sheena** of the *Warsong Clan*, a 19 twink horde guild of TrueWoW ([original post](https://truewow.org/forum/viewtopic.php?f=102&t=13126&sid=011eb1e5779c2009707429455a32e6e0)). Her real life was Aleksandra, she died of an heart attack at her desk ([source](https://truewow.org/forum/viewtopic.php?f=115&t=15280)).
+
+I adapted her tutorial to this wiki, because many people found it very useful and because I wanted to honor her memory. May you rest in peace, champion!
+
+-- *ShinDarth*
 
 
 ---
+
+## Intro
 
 Wont include glyphs cuz it's pretty much "obvious" what to do with them and what spells to improve since on 19 you can use only 1 major and minor glyph.  
 Also I think it's your personal choice what will your do with your talent points. We all have our style of play and I respect anyone's ways. With only 10 talent points to spend I dont think there is much space for mistakes. Just read carefully each talent and choose those which are fitting your playing style.  
