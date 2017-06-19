@@ -93,7 +93,7 @@ Troll: more atk speed and more dmg with bows
 
 - alliance choice:  
 Night Elf: mostly cuz you stay invisible and start your surprise attack when enemy doesn't expect it  
-Dwarf: 10% increased armor for 8secs + bleed & posion removal (yea.. 19s CAN have poisons, stay tuned ![:lol:](./images/smilies/icon_lol.gif "Laughing") )  
+Dwarf: 10% increased armor for 8secs + bleed & posion removal (yea.. 19s CAN have poisons, stay tuned! :D )  
 
 Shaman:  
 - horde choice:  
@@ -101,14 +101,14 @@ Tauren: that racial stun can get you alot advantage over your opponents. You can
 Troll: extra cast speed, regen benefits, da voodoo shuffle makes this class good choice too. (edit - thanks to Ragnorak for tips)  
 
 - alliance choice:  
-Draenei wins by default (spacegoat with wolf form... epic ![:P](./images/smilies/icon_razz.gif "Razz") )  
+Draenei wins by default (spacegoat with wolf form... epic :P )  
   
 Druid:  
 - horde choice:  
 Tauren wins by default  
 
 - alliance choice:  
-Draenei... ohhh wait ![:P](./images/smilies/icon_razz.gif "Razz") luckily they can't add one more heal to druids... Night elfs win by default ![:twisted:](./images/smilies/icon_twisted.gif "Twisted Evil")  
+Draenei... ohhh wait :P luckily they can't add one more heal to druids... Night elfs win by default  
 
 ## Gear lists
 
@@ -196,7 +196,7 @@ WEAPONS:
 [Shadowfang](http://wotlk.openwow.com/item=1482) (anyone's main 1handed wep first choice) both factions  
 [Skeletal Club](http://wotlk.openwow.com/item=2256) (shadofang baby) both factions  
 [Stinging Viper](http://wotlk.openwow.com/item=6472)both factions (not that great stuff but worth mentioning)  
-[Balanced Heartseeker](http://wotlk.openwow.com/item=42944) both factions, rogue obviously ![:P](./images/smilies/icon_razz.gif "Razz")  
+[Balanced Heartseeker](http://wotlk.openwow.com/item=42944) both factions, rogue obviously :P  
 [Sharpened Scarlet Kris](http://wotlk.openwow.com/item=44091) both factions  
 [Assasin's Blade](http://wotlk.openwow.com/item=1935) both factions, best weapon for rogue's opening hits  
 
@@ -210,7 +210,7 @@ BOWS/GUNS & SHIELDS:
 [Charmed Ancient Bone Bow](http://wotlk.openwow.com/item=42946) both factions (best thing for rogues, yea... belive me it is )  
 [Venomstrike](http://wotlk.openwow.com/item=6469) both factions ( some hunters stick to this one mostly cuz of "green text" thing)  
 [Lil' Timmy's Peashoter](http://wotlk.openwow.com/item=13136) both factions ( saw some dwarfs using this ;) )  
-[Upgraded Dwarf Handcannon](http://wotlk.openwow.com/item=44093) both factions ( but true dwarfs use this ![:twisted:](./images/smilies/icon_twisted.gif "Twisted Evil") )  
+[Upgraded Dwarf Handcannon](http://wotlk.openwow.com/item=44093) both factions ( but true dwarfs use this  )  
   
 
 ### Caster gear  
@@ -348,7 +348,7 @@ There few mats that can purchased from event vendors. They last for 7days (real 
 
 _Engineering_: good choice for extra stuns and head piece. Also if you use guns, you can craft your bullets. Personaly, I'm not a fan of this profession since you can get dynamites for non-engs and there is also one great thing I'll mention later which is also for non-engs. However, healers can buy them so wanted time with bombs to finalize their heals that take some time to be casted. Still in mass populated bg you wont really have much use of this.  
 
-_Herbalism_ - simply a must have due to providing awesome heal over time. The only healing resource that non-healing horde 19s have. Alliance can always rely on thier damn Naru goddess and her Gift ![:P](./images/smilies/icon_razz.gif "Razz")  
+_Herbalism_ - simply a must have due to providing awesome heal over time. The only healing resource that non-healing horde 19s have. Alliance can always rely on thier damn Naru goddess and her Gift :P  
 
 _Mining_ - one of my favorites. You can skill it up to rank 3 which means extra 70hp.  
 
