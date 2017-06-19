@@ -102,7 +102,7 @@ Tauren wins by default
 - alliance choice:  
 Draenei... ohhh wait ![:P](./images/smilies/icon_razz.gif "Razz") luckily they can't add one more heal to druids... Night elfs win by default ![:twisted:](./images/smilies/icon_twisted.gif "Twisted Evil")**  
 
-**4\. GEAR LISTS**  
+## GEAR LISTS
 
 **I wont make usual gear lists like you've seen in random guides all over internet. I'll do it on "my own way".  
 Here is the list of items that are mostly used by all classes, those stuff are considered MUST HAVE for 99% of 19lvs. For more information about where to get each item just click the link. Items are listed as general stuff for everyone, non-caster and caster items. Just browse trough list and see what fits you the most. Don't follow anyone's rules - your style is the best style if you enjoy playing it :**  
@@ -119,7 +119,7 @@ HEAD SLOT ITEMS AND TRINKETS
 
 [Minor Recombobulator](http://wotlk.openwow.com/item=4381) both factions**  
 
-Non-caster gear  
+### Non-caster gear  
 
 RINGS & NECK ITEMS:  
 **[Legionnaire's Band](http://wotlk.openwow.com/item=19511) for horde  
@@ -205,7 +205,7 @@ BOWS/GUNS & SHIELDS:
 [Upgraded Dwarf Handcannon](http://wotlk.openwow.com/item=44093) both factions ( but true dwarfs use this ![:twisted:](./images/smilies/icon_twisted.gif "Twisted Evil") )  
 **  
 
-Caster gear  
+### Caster gear  
 
 RING:  
 **  
@@ -281,7 +281,8 @@ WEAPONS & OFFHANDS:
 That's it "gearwise"... feel free to remind me if missed something. I'll edit post and add it if I feel it's worth it.  
 Moving onto next thing.**  
 
-**5\. ENCHANTING SUGGESTIONS**  
+## ENCHANTING SUGGESTIONS
+
 **  
 Enchants for rogue/hunter/enhancement shaman:  
 
@@ -319,7 +320,7 @@ Legs: +16 armor leatherworking enchant
 Boots: 7sta  
 Weapon: 30spell power**  
 
-**6\. PROFESSIONS:  
+## PROFESSIONS
 
 _First Aid_ - this is simply a must have profession and get it skilled up asap. Heavy Runecloth Bandage will heal up most of 19s from 1hp to full in no time.  
 
@@ -367,8 +368,8 @@ Here is the list of what you can use at this level (gonna list only the highest 
 
 Other proffesions are basicly useless... seriously.**  
 
-**  
-7\. "SECRET" AND RARELY SEEN STUFF  
+ 
+## "SECRET" AND RARELY SEEN STUFF  
 
 Finaly, we come to most interesting part of this huge post. All above mentioned is pretty much known and covered in many other guides but I took my time to write it down so our server can maybe become some source of wotlk twinking info.  
 
@@ -479,4 +480,4 @@ I hope this post will become some sort of "advertisment of our server" among the
 
 I would apreciate if you guys keep your "negativity" out of this topic (especially one person) because this has a potentital to become more than just another forum post. Lets work together to make it better instead of spreading hates and driving away potential new players who might read this and give our server a shot.  
 
-Thanks for reading... it's 00:49 now and I started writing in 10:12\. Nicey... my eyes are screwed.**</div>
+Thanks for reading... it's 00:49 now and I started writing in 10:12\. Nicey... my eyes are screwed.**
