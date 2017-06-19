@@ -479,13 +479,14 @@ Dont be "afraid" of dying to those ravasaur. Be prepared to totaly destroy your 
 
 Transforms you into darkiron dwarf and also gives you a [buff](http://www.wowhead.com/spell=58505#see-also-other) that deals 100ish dmg. Has like 10% chance to be casted and looks like Chain Lightning spell. Has 1 hour cooldown and not disappearing after it's used. Can be bought from [Olut Alegut](http://wotlk.openwow.com/npc=30472) in Storm Peaks.  
 
+
+## Personal conclusions
+
 That concludes the final section of this guide and belive me, I'm tired.  
-I've been writing this all day, with some breaks ofc, so it's easily possbile that I've missed some stuff. If I notice that I've missed somthing I'll sure add it in future. I enjoyed making this post and I truly belive that some of you realized how complex lv19 character can become if you just scratch a bit under the surface.  
+
+I've been writing this all day, with some breaks ofc, so it's easily possbile that I've missed some stuff. If I notice that I've missed somthing I'll sure add it in future. I enjoyed making this post and I truly belive that some of you realized how complex lv19 character can become if you just scratch a bit under the surface. 
+
 Some people might not like the fact I shared all this stuff in public mostly because 90% of this was never used in Warsong Gulch. Only few of us knew about those stuff. Now it's presented to you all. I think its fair that now we all have informations about those stuff and its gonna be interesting to see how many people will actually go for it.  
-No other guide contains this stuff. Some guides have mentioned that Magic Dust or Crystal Charge Focus, but they never mentioned this much stuff mostly because they are focused only on basic thing that lv19 can do: get some gear and play wsg ![:P](./images/smilies/icon_razz.gif "Razz") If you just check my, Shamm's or Scorpio's armory you will see how far lv19 character can go.  
 
-I hope this post will become some sort of "advertisment of our server" among the 10-19s bracket lovers and that it will reach people outside TrueWoW and make them start their character here. In order to benefit from most of mentioned stuff they will have to level up at least 70lv character so our all brackets have benefits from this post. I've read countless guides out there and I'm sure if there is anyone like me looking for a wotlk twinking guide that he will stumble upon this post.  
+No other guide contains this stuff. Some guides have mentioned that Magic Dust or Crystal Charge Focus, but they never mentioned this much stuff mostly because they are focused only on basic thing that lv19 can do: get some gear and play wsg !
 
-I would apreciate if you guys keep your "negativity" out of this topic (especially one person) because this has a potentital to become more than just another forum post. Lets work together to make it better instead of spreading hates and driving away potential new players who might read this and give our server a shot.  
-
-Thanks for reading... it's 00:49 now and I started writing in 10:12\. Nicey... my eyes are screwed.
