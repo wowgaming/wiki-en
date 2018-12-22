@@ -1,5 +1,19 @@
 title: WoW Wiki
 description: World of Warcraft - wiki 
+# (boolean) Enable/disable wiki page list in sidebar
+show_wiki_pages: true
+# (integer) Maximum number of wiki page to shown in sidebar
+show_wiki_pages_limit: 10
+# (boolean) Enable/disable blog feature
+blog_feature: true
+# (boolean) Enable/disable wiki posts list in sidebar (needs blog_feature enabled)
+show_wiki_posts: true
+# (integer) Maximum number of wiki posts to shown in sidebar
+show_wiki_posts_limit: 10
+# from jekyll (read jekyll doc)
+paginate: 5
+paginate_path: "/blog/page:num"
+permalink: /blog/posts/:year/:month/:day/:title:output_ext
 show_downloads: true
 git_branch: master
 logo_url: https://wowgame.github.io/wiki-en/assets/images/World-of-Warcraft-Logo.jpg
@@ -10,11 +24,50 @@ wiki_folder: _pages
 use_github_wiki: false
 use_prose_io: true
 google_cse_token: 007197903287787072094:kayohas4w7e
-comments: true
-custom_sidebar: true
-gems:
-  - jekyll-sitemap
-  - jekyll-mentions
-  - jemoji
-  - jekyll-redirect-from
-  - jekyll-feed
+inc_after_content : "comments.html"
+inc_after_header : "sidebar.html" 
+search_engine : "js"
+
+#
+# Jekyll configurations
+#
+
+# You can customize it changing default layout for all pages
+# More info: https://jekyllrb.com/docs/configuration/
+#
+# git-wiki includes some internal themes that you can choose
+# check _layouts folder
+#
+defaults:
+ -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "git-wiki-default"
+ -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "git-wiki-default"
+ -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "git-wiki-post"
+ -
+    scope:
+      path: blog
+    values:
+      layout: "git-wiki-blog"
+sass:
+    style: compressed
+plugins:
+ - jekyll-feed
+ - jekyll-redirect-from
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - jekyll-avatar
+ - jemoji
+ - jekyll-mentions
