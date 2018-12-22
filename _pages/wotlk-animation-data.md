@@ -4,7 +4,7 @@ post_title: wotlk-animation-data
 author: yehonal
 post_date: 2017-05-23 16:35:31
 post_excerpt: ""
-layout: page
+
 _permalink: >
   https://wowgaming.altervista.org/wp/wotlk-animation-data/
 published: true

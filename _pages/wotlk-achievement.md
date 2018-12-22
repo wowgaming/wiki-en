@@ -4,7 +4,7 @@ post_title: wotlk-achievement
 author: yehonal
 post_date: 2017-05-23 15:52:21
 post_excerpt: ""
-layout: page
+
 _permalink: >
   https://wowgaming.altervista.org/wp/wotlk-achievement/
 published: true

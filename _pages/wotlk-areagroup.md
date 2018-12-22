@@ -4,7 +4,7 @@ post_title: wotlk-areagroup
 author: yehonal
 post_date: 2017-05-23 16:38:10
 post_excerpt: ""
-layout: page
+
 _permalink: >
   https://wowgaming.altervista.org/wp/wotlk-areagroup/
 published: true

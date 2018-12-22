@@ -4,7 +4,7 @@ post_title: wotlk-areapoi
 author: yehonal
 post_date: 2017-05-23 16:39:08
 post_excerpt: ""
-layout: page
+
 _permalink: >
   https://wowgaming.altervista.org/wp/wotlk-areapoi/
 published: true

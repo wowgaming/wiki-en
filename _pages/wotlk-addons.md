@@ -4,7 +4,7 @@ post_title: wotlk-addons
 author: yehonal
 post_date: 2017-05-23 16:25:05
 post_excerpt: ""
-layout: page
+
 _permalink: >
   https://wowgaming.altervista.org/wp/wotlk-addons/
 published: true

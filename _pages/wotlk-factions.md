@@ -4,7 +4,7 @@ post_title: wotlk-factions
 author: yehonal
 post_date: 2017-05-23 15:18:08
 post_excerpt: ""
-layout: page
+
 _permalink: >
   https://wowgaming.altervista.org/wp/wotlk-factions/
 published: true

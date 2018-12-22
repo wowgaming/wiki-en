@@ -4,7 +4,7 @@ post_title: wotlk-areatable
 author: yehonal
 post_date: 2017-05-23 16:40:15
 post_excerpt: ""
-layout: page
+
 _permalink: >
   https://wowgaming.altervista.org/wp/wotlk-areatable/
 published: true

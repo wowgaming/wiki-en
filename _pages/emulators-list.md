@@ -4,7 +4,7 @@ post_title: emulators-list
 author: yehonal
 post_date: 2017-05-23 15:13:10
 post_excerpt: ""
-layout: page
+
 _permalink: >
   https://wowgaming.altervista.org/wp/emulators-list/
 published: true
