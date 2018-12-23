@@ -26,7 +26,7 @@ categories:
 
 * [Cataclysm](cata-home)
 
-* [Wrath of the lich king](/wotlk-home.md)
+* [Wrath of the lich king](_pages/wotlk-home.md)
 
 * [The Burning Crusade](tbc-home)
 
