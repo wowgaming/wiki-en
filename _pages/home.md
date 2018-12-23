@@ -1,20 +1,3 @@
----
-ID: 19
-post_title: Home
-author: yehonal
-post_date: 2017-05-23 09:09:02
-post_excerpt: ""
-
-_permalink: https://wowgaming.altervista.org/wp/
-published: true
-dsq_thread_id:
-  - "5842311972"
-tags:
-  - expansion
-  - wow
-categories:
-  - Common
----
 # Welcome to WoW Wotlk Wiki
 ## PORTALS BY EXPANSIONS
 
@@ -26,7 +9,7 @@ categories:
 
 * [Cataclysm](cata-home)
 
-* [Wrath of the lich king](wotlk-home.md)
+* [Wrath of the lich king](home.md)
 
 * [The Burning Crusade](tbc-home)
 
