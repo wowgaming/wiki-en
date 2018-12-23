@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: git-wiki-default
 ---
 
 # WoW Wiki
