@@ -21,4 +21,4 @@
 
 ## About
 
-* <a href="http://www.wowgaming.org/" target="_blank">WoWGaming Site</a>
+* <a href="https://wowgaming.github.io/" target="_blank">WoWGaming Site</a>
