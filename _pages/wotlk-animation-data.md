@@ -1,17 +1,3 @@
----
-ID: 87
-post_title: wotlk-animation-data
-author: yehonal
-post_date: 2017-05-23 16:35:31
-post_excerpt: ""
-
-_permalink: >
-  https://wowgaming.altervista.org/wp/wotlk-animation-data/
-published: true
-tags: [ ]
-categories:
-  - Wrath of The Lich King
----
 <div id="content">
 <h2 id="structure" class="clickable-header">Structure</h2>
 <table>
