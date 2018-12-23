@@ -1,17 +1,3 @@
----
-ID: 72
-post_title: wotlk-dbc-files
-author: yehonal
-post_date: 2017-05-23 15:50:05
-post_excerpt: ""
-
-_permalink: >
-  https://wowgaming.altervista.org/wp/wotlk-dbc-files/
-published: true
-tags: [ ]
-categories:
-  - Wrath of The Lich King
----
 ## DBC List (Wotlk)
 
 [Achievement](wotlk-achievement)
