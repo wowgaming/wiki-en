@@ -1,17 +1,3 @@
----
-ID: 91
-post_title: wotlk-areapoi
-author: yehonal
-post_date: 2017-05-23 16:39:08
-post_excerpt: ""
-
-_permalink: >
-  https://wowgaming.altervista.org/wp/wotlk-areapoi/
-published: true
-tags: [ ]
-categories:
-  - Wrath of The Lich King
----
 <div id="content">
         <h2 id="structure">Structure</h2>
 
