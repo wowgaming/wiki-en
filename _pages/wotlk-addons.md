@@ -21,4 +21,6 @@ Often the name modification (or “mod” for short) is used interchangeably wit
 
 Some mods are standalone, able to run without any additional software. Others are built on libraries, like the old Sea or Ace libraries. Still others, such as the old Cosmos, are compilations of many individually-developed mods.
 <h2 id="addons-collection" class="clickable-header">Addons Collection</h2>
+<div markdown="1">
 Checkout our [Addons List](wotlk-addons-list.md)
+</div>
