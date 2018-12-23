@@ -20,7 +20,7 @@ In plain English, an AddOn for a game is just some files you can put in your gam
 Often the name modification (or “mod” for short) is used interchangeably with AddOn. More specifically, a mod is a third-party AddOn that alters or enhances some aspect of the game’s interface. Mods can perform a wide variety of tasks, including adding new buttons to the screen, altering the built-in player and party frames. In extreme cases, mods completely supplant the standard game’s interface, usually offering more advanced functionality.
 
 Some mods are standalone, able to run without any additional software. Others are built on libraries, like the old Sea or Ace libraries. Still others, such as the old Cosmos, are compilations of many individually-developed mods.
-## Addons Collection<
+## Addons Collection
 
 Checkout our [Addons List](wotlk-addons-list.md)
 
