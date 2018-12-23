@@ -31,6 +31,9 @@ collections:
     permalink: /:name
 include: ["_pages", "_posts"]
 wiki_folder: _pages
+relative_links:
+  enabled:     true
+  collections: true
 
 #
 # Jekyll configurations
