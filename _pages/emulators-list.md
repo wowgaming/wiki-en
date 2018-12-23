@@ -1,19 +1,3 @@
----
-ID: 60
-post_title: emulators-list
-author: yehonal
-post_date: 2017-05-23 15:13:10
-post_excerpt: ""
-
-_permalink: >
-  https://wowgaming.altervista.org/wp/emulators-list/
-published: true
-dsq_needs_sync:
-  - "1"
-tags: [ ]
-categories:
-  - Common
----
 [Emulators](emulation) in Alphabetical order
 
 ## Open Source Active Projects
