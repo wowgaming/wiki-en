@@ -1,17 +1,3 @@
----
-ID: 81
-post_title: wotlk-addons
-author: yehonal
-post_date: 2017-05-23 16:25:05
-post_excerpt: ""
-
-_permalink: >
-  https://wowgaming.altervista.org/wp/wotlk-addons/
-published: true
-tags: [ ]
-categories:
-  - Wrath of The Lich King
----
 # Addons
 AddOns are generally self-contained User Interface (UI) modification components. However, some AddOns can be dependent on other AddOns to work, and some AddOns are actually collections of other AddOns. There is no size restriction on AddOns, some can grow to be quite massive.
 
