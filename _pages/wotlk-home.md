@@ -1,21 +1,3 @@
----
-ID: 36
-post_title: Wrath of the lich king
-author: yehonal
-post_date: 2017-05-23 12:34:35
-post_excerpt: ""
-
-_permalink: >
-  https://wowgaming.altervista.org/wp/wotlk-home/
-published: true
-dsq_thread_id:
-  - "5842714332"
-dsq_needs_sync:
-  - "1"
-tags: [ ]
-categories:
-  - Wrath of The Lich King
----
 <h3>World of Warcraft - Wrath of the lich king (WoW - Wotlk)</h3>
 <ul>
  	<li><a href="./wotlk-classes">Classes</a></li>
