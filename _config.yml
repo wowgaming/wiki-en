@@ -13,7 +13,6 @@ show_wiki_posts_limit: 10
 # from jekyll (read jekyll doc)
 paginate: 5
 paginate_path: "/blog/page:num"
-permalink: /blog/posts/:year/:month/:day/:title:output_ext
 show_downloads: true
 git_branch: master
 logo_url: https://wowgaming.github.io/wiki-en/assets/images/home.png
@@ -26,11 +25,10 @@ inc_after_header : "sidebar.html"
 search_engine : "js"
 
 collections:
-  pages:
+  posts:
     output: true
-    permalink: /:name
-include: ["_pages", "_posts"]
-wiki_folder: _pages
+    permalink: /blog/posts/:year/:month/:day/:title:output_ext
+wiki_folder: wiki
 relative_links:
   enabled:     true
   collections: true
@@ -63,6 +61,12 @@ defaults:
       type: "posts"
     values:
       layout: "git-wiki-post"
+ -
+    scope:
+      path: "wiki"
+    values:
+      layout: "git-wiki-default"
+      permalink: /:basename:output_ext
  -
     scope:
       path: blog
