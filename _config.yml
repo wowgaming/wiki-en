@@ -28,7 +28,7 @@ search_engine : "js"
 collections:
   pages:
     output: true
-    permalink: /:path/
+    permalink: /:name
 include: ["_pages", "_posts"]
 wiki_folder: _pages
 
