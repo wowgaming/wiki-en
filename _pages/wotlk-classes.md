@@ -1,19 +1,3 @@
----
-ID: 70
-post_title: wotlk-classes
-author: yehonal
-post_date: 2017-05-23 15:26:58
-post_excerpt: ""
-
-_permalink: >
-  https://wowgaming.altervista.org/wp/wotlk-classes/
-published: true
-dsq_thread_id:
-  - "5843134904"
-tags: [ ]
-categories:
-  - Wrath of The Lich King
----
 <h1>Classes</h1>
 For the classes in the Warcraft RPG, see RPG Classes. For a short description on class lore, see Class lore. A class is the primary adventuring style of a player character which determines the type of weapons and armor it can use, as well as what abilities, powers, skills, and spells it will gain throughout its adventures.
 
