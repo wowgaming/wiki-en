@@ -1,17 +1,3 @@
----
-ID: 89
-post_title: wotlk-areagroup
-author: yehonal
-post_date: 2017-05-23 16:38:10
-post_excerpt: ""
-
-_permalink: >
-  https://wowgaming.altervista.org/wp/wotlk-areagroup/
-published: true
-tags: [ ]
-categories:
-  - Wrath of The Lich King
----
 <div id="content">
         <h2 id="content">Content</h2>
 
