@@ -1,19 +1,3 @@
----
-ID: 79
-post_title: wotlk-achievement-criteria
-author: yehonal
-post_date: 2017-05-23 16:21:30
-post_excerpt: ""
-
-_permalink: >
-  https://wowgaming.altervista.org/wp/wotlk-achievement-criteria/
-published: true
-dsq_thread_id:
-  - "5843294229"
-tags: [ ]
-categories:
-  - Wrath of The Lich King
----
 <div id="content">
 <h2 id="structure">Structure</h2>
 <table>
