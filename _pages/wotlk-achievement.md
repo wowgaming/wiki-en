@@ -1,17 +1,3 @@
----
-ID: 74
-post_title: wotlk-achievement
-author: yehonal
-post_date: 2017-05-23 15:52:21
-post_excerpt: ""
-
-_permalink: >
-  https://wowgaming.altervista.org/wp/wotlk-achievement/
-published: true
-tags: [ ]
-categories:
-  - Wrath of The Lich King
----
 ## Structure
 
 | **Column** | **Field** | **Type** | **Notes** 
