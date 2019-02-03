@@ -1,24 +1,31 @@
-# git-wiki
+---
+layout: git-wiki-default
+---
 
-it's a **modular and full featured wiki** powered by git, github pages and pull-requests without the needs of local installations/build! 
+# WoW Wiki
 
-It means: 
+### What is this?
 
-* Improvements in the **cooperative** aspect: forks, pull-requests and roles.
-* You can **customize your wiki** as you want with style sheets and even changing the layout. (see customization section below) 
-* **No databases!** Only static files that can be downloaded in a few seconds.
-* **Blazing fast** and free thankfully to Github Pages and Jekyll Server Side Generation process!
-* **Markdown and html** mixed together!
-* **Multiple free search engines!** on a static site!
-* **History, revision comparison** and everything you need from a wiki platform.
-* You can **edit your pages** with the standard git editor, prose.io (integrated) or any kind of editor you prefer.
-* Non-existent wiki page links are "[red](wiki/red.md)", you can **click on them to automatically create a new page**!
-* [External links](http://www.google.it) get the right icon automatically
-* **Component system with hooks** that allows you to totally customize your wiki UI. (see customization section below) 
-* Some **nice internal themes** to change your entire wiki UI with 1 simple configuration (see customization section below)
-* Integrated **Blogging** feature thanks to jekyll!
+This is a dedicated wiki for World of Warcraft game version. It would be also an historical archive of original content from all expansion.
 
-You can fork/copy the master branch now and start your wiki in just 1 minute.
+### Why are you using github? instead of mediawiki or similar platform?
 
+Because we believe that the Open Source tools together the wiki concept allow us to create a repository of information that can never die
+thankfully to git, github and the fork system.
 
-Instructions and documentation: (http://drassil.github.io/git-wiki)
+In fact you can even [download](https://github.com/wowgame/wiki-wotlk-en/zipball/master) the whole wiki without lose anything. Every page here is a static file with an human readable markdown syntax.
+
+Moreover anyone can collaborate to this project , such as on a real mediawiki platform.
+
+It's based on the [git wiki project](https://github.com/drassil/git-wiki)
+
+### Why we should use it instead of other wow wiki platforms?
+
+Because they can be closed suddenly, as a lot of other similar projects out of there, and you have not the possibility to recover that data.
+This wiki instead, as said before, can be easily entirely downloaded in just 1 click and you can reupload it on every [free] host that support web static files (everyone).
+
+So please, help us to improve this wiki, even a small contribute can make the difference!
+
+Thank you!
+
+The WoWGame Team.
