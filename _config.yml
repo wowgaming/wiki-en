@@ -1,3 +1,4 @@
+remote_theme: Drassil/git-wiki-theme@master
 title: WoW Wiki
 description: World of Warcraft - wiki 
 # (boolean) Enable/disable wiki page list in sidebar
