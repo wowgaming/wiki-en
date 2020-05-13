@@ -15,6 +15,7 @@
 
 ### Development
 
+*   [Client Dev Tools](client-dev-tools.md)
 *   [DBC_Files](wotlk-dbc-files.md)
 *   [Emulators](emulators_list#wotlk.md)
 
