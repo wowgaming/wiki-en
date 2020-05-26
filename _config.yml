@@ -70,9 +70,10 @@ defaults:
       permalink: /:basename:output_ext
  -
     scope:
-      path: blog
+      path: assets/blog
     values:
       layout: "git-wiki-blog"
+
 sass:
     style: compressed
 plugins:
