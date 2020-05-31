@@ -12,7 +12,7 @@
 ### Tools
 
 *   [Addons List](wotlk-addons-list.md)
-*   [Making a macro](making-a-macro)
+*   [Making a macro](making-a-macro.md)
 
 ### Development
 
