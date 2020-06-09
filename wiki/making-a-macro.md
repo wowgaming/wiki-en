@@ -679,14 +679,16 @@ One source of confusion comes in dealing with parameterless commands. A very com
 
 To the uninitiated, that looks like it'll send your pet after your focus if it's harmful, and do nothing otherwise. However, let's look at a breakdown of this macro:
 
-`/petattack [@focus, harm]  ;`
-`\________/ \____________/ V V V`
-`    |               |     | | |`
-` command         options  | | parameters (empty)`
-`                          | |`
-`                          | options (empty)`
-`                          |`
-`                          parameters (empty)`
+```
+/petattack [@focus, harm]  ;
+\________/ \____________/ V V V
+    |               |     | | |
+ command         options  | | parameters (empty)
+                          | |
+                          | options (empty)
+                          |
+                          parameters (empty)
+```
 
 See that extra blank set of options and parameters? Remember that a blank set of options always evaluates to true, so that second empty parameter gets passed to /petattack if the first conditions are false.
 
@@ -706,12 +708,12 @@ WoW will ignore party1 because you set a unit with the \[@\] targeting option. T
 
 In this case, the key unit is focus. Since we are using \[@focus\], WoW will send "focus" to the /focus command. We could also have left off the "target" at the end since the /focus command defaults to your target. Below is a list of all commands with key units, and their default units if any. To reiterate for clarity, the key unit is a unit you can use in \[@\] option that will allow you to send another unit to the command. The Default Unit is the unit that will be sent to the command if you don't provide one.
 
-` Command      | Key Unit  | Default Unit`
-`    ------------- ----------- -------------`
-`    /target      | target    |`
-`    /focus       | focus     | target`
-`    /startattack | target    | target`
-`    /petattack   | pettarget | target`
+|Command      | Key Unit  | Default Unit|
+|   ------------- ----------- -------------|
+|   /target      | target    ||
+|   /focus       | focus     | target|
+|   /startattack | target    | target|
+|   /petattack   | pettarget | target|
 
 Conditionals
 ------------
