@@ -865,19 +865,23 @@ The "virtual click" can usually be ignored, but if you use a bar mod it can be u
 
 \[equipped\] allows you to determine if a particular type of gear is equipped. The item type can be an inventory slot name, an item type, or an item subtype. See [ItemType](ItemType "wikilink") and [InventorySlotName](InventorySlotName "wikilink") for lists of these types. Here is the macro you can use to pick Shield Bash or Pummel depending on what you've got equipped:
 
-`#show [equipped:Shields] Shield Bash; Pummel`
-`    /cast [equipped:Shields,stance:1/2] Shield Bash; [equipped:Shields] Defensive Stance; [stance:3] Pummel; Berserker Stance`
+```
+#show [equipped:Shields] Shield Bash; Pummel
+/cast [equipped:Shields,stance:1/2] Shield Bash; [equipped:Shields] Defensive Stance; [stance:3] Pummel; Berserker Stance
+```
 
 The \#show line is used to make it show either Shield Bash or Pummel. Without it, it would show the stance spells as well, when applicable. Here's some pseudocode that illustrates how the second line works:
 
-`if a shield is equipped and you're in Battle or Defensive stance then`
-`    /cast Shield Bash`
-`else if a shield is equipped then`
-`    /cast Defensive Stance`
-`else if you're in Berserker stance then`
-`    /cast Pummel`
-`else`
-`    /cast Berserker Stance`
+```
+if a shield is equipped and you're in Battle or Defensive stance then
+    /cast Shield Bash`
+else if a shield is equipped then
+    /cast Defensive Stance
+else if you're in Berserker stance then
+    /cast Pummel
+else
+    /cast Berserker Stance`
+```
 
 Here's another macro that lets you cast Overpower with a bit more vigor:
 
@@ -894,8 +898,10 @@ Note: channeling is NOT the same as casting. The \[channeling\] conditional only
 
 The default UI provides a number of action bar pages. These pages only affect the lower left action bar that is visible by default. Luckily, you can make macros that respond to different action bar pages and place them on the other action bars. One example is for a hunter to emulate stances using their aspects:
 
-`/swapactionbar 1 2`
-`/cast [actionbar:1] Aspect of the Hawk; Aspect of the Monkey`
+```
+/swapactionbar 1 2
+/cast [actionbar:1] Aspect of the Hawk; Aspect of the Monkey
+```
 
 This macro will switch between action bars 1 and 2. When it switches to bar 1 it casts Aspect of the Hawk, and when it goes to bar 2 it casts Aspect of the Monkey.
 
@@ -955,9 +961,11 @@ As of patch 2.3.2, the cast command toggles abilities on and off. From the offic
 /cast will toggle spells again unless the name is prefixed with an exclamation mark, e.g. /castsequence Steady Shot, !Auto Shot
 Examples of such toggleable abilities are Stealth, Shoot or Mass Dispel (the green targeting circle). If you want to spam such a macro without toggling the ability immediately off, prefix its name with an exclamation mark.
 
-`/cast !Stealth`
-`/cast !Mass Dispel`
-`/cast !Shoot`
+```
+/cast !Stealth
+/cast !Mass Dispel
+/cast !Shoot
+```
 
 Macro option applications
 -------------------------
@@ -980,9 +988,11 @@ In addition to the key bindings, there are also the /focus and /clearfocus slash
 
 Here is an example of more advanced focusing:
 
-`/focus [@focus, noharm] [@focus, dead] [modifier]`
-`/stopmacro [@focus, noexists]`
-`/cast [@focus] Polymorph`
+```
+/focus [@focus, noharm] [@focus, dead] [modifier]
+/stopmacro [@focus, noexists]
+/cast [@focus] Polymorph
+```
 
 The first line sets your focus to your current target (or clears your focus if you don't have a target) in one of the following situations:
 
@@ -994,13 +1004,15 @@ The second line keeps the macro from proceeding if you don't have a focus. Final
 
 It's possible to swap your target and your focus, giving you in effect two targets you can toggle between:
 
-`/cleartarget [@target, dead]`
-`/clearfocus [@focus, dead]`
-`/target focus`
-`/cleartarget [@focus, noexists]`
-`/targetlasttarget`
-`/focus target`
-`/targetlasttarget`
+```
+/cleartarget [@target, dead]
+/clearfocus [@focus, dead]
+/target focus
+/cleartarget [@focus, noexists]
+/targetlasttarget
+/focus target
+/targetlasttarget
+```
 
 The first two lines clear the target and/or focus if they are dead (if you really want to keep track of multiple dead targets, e.g. to resurrect or loot them, then delete those lines). The fourth is needed because /target focus doesn't clear your target if you have no current focus (without it, the fifth line would then retrieve your previous target).
 
@@ -1012,9 +1024,11 @@ Say you want a button that chooses between three different spells based on shift
 
 That's quite an unwieldy bit of script there. We can split it onto multiple lines for clarity and remove some redundancies to save room but it's still a bit of a beast:
 
-`/cast [mod:shift, button:1, @party1] [mod:shift, @player] Greater Heal`
-`/cast [mod:ctrl, button:1, @party1] [mod:ctrl, @player] Flash Heal`
-`/cast [button:1, @party1] [@player] Renew `
+```
+/cast [mod:shift, button:1, @party1] [mod:shift, @player] Greater Heal
+/cast [mod:ctrl, button:1, @party1] [mod:ctrl, @player] Flash Heal
+/cast [button:1, @party1] [@player] Renew
+```
 
 However, by using one master macro to choose the target based on mouse button and two macros to choose the spells based on modifier key, we can make it much easier to follow. For the sake of these examples, macros 2 and 3 are on MultiBarLeftButton2 and MultiBarLeftButton3, respectively.
 
