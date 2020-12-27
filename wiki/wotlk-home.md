@@ -19,6 +19,7 @@
 *   [Client Dev Tools](client-dev-tools.md)
 *   [DBC_Files](wotlk-dbc-files.md)
 *   [Emulators](emulators_list#wotlk.md)
+*   [3.3.5 Interface Files](https://github.com/wowgaming/3.3.5-interface-files)
 
 ### Other
 
