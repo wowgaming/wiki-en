@@ -1,7 +1,7 @@
 
 ## List of DBC editor
 
-**WDBX Editor (suggested):** [DOWNLOAD](https://github.com/WowDevTools/WDBXEditor/releases)
+**WDBX Editor (suggested):** [DOWNLOAD](https://github.com/WowDevTools/WDBXEditor/releases) - includes SQL exporter
 
 ### Archived:
 
