@@ -22,6 +22,7 @@
 *   [3.3.5 Interface Files](https://github.com/wowgaming/3.3.5-interface-files)
 
 *   [WoWDev Wiki](https://wowdev.wiki)
+*   [WoWTools website](https://wow.tools/)
 
 ### Other
 
