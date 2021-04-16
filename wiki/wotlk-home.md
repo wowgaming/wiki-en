@@ -21,7 +21,7 @@
 *   [Emulators](emulators_list#wotlk.md)
 *   [3.3.5 Interface Files](https://github.com/wowgaming/3.3.5-interface-files)
 
-*   [WoWDev Wiki](https://wowdev.wiki/DB/Spell#3.3.5.12340)
+*   [WoWDev Wiki](https://wowdev.wiki)
 
 ### Other
 
