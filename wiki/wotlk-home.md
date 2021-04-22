@@ -24,7 +24,7 @@ Original 3.3.5a Client downloads:
 
 *   [Client Dev Tools](client-dev-tools.md)
 *   [DBC_Files](wotlk-dbc-files.md)
-*   [Emulators](emulators-list#wotlk.md)
+*   [Emulators](emulators-lis.mdt#wotlk.md)
 *   [3.3.5 Interface Files](https://github.com/wowgaming/3.3.5-interface-files)
 
 *   [WoWDev Wiki](https://wowdev.wiki)
