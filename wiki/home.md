@@ -1,13 +1,6 @@
-# Welcome to WoW Wotlk Wiki
+# Welcome to WoWGaming Wiki
+
 ## PORTALS BY EXPANSIONS
-
-* [Legion](legion-home.md)
-
-* [Warlords of Draenor](wod-home.md)
-
-* [Mists of Pandaria](mop-home.md)
-
-* [Cataclysm](cata-home.md)
 
 * [Wrath of the lich king](wotlk-home.md)
 
