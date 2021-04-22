@@ -16,7 +16,9 @@
 
 ### Client
 
-* Original 3.3.5a Client download: [Torrent](https://github.com/wowgaming/client-data/releases/download/v0/clean-game-client.torrent) / Magnet Link : magnet:?xt=urn:btih:6852306d5908a9519d61c06bb06a923cf3e46405&dn=wow335a 
+Original 3.3.5a Client downloads: 
+* [Torrent](https://github.com/wowgaming/client-data/releases/download/v0/clean-game-client.torrent)
+* Magnet Link : magnet:?xt=urn:btih:6852306d5908a9519d61c06bb06a923cf3e46405&dn=wow335a 
 
 ### Development
 
