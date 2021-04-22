@@ -4,7 +4,7 @@
 
 * [WoWhead Classic](https://classic.wowhead.com/)
 
-## development
+## Development
 
 * [Sniffs](https://github.com/WowSniffParses)
 
