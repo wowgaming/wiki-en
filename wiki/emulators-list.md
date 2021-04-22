@@ -2,10 +2,10 @@
 
 ## Open Source Active Projects
 
-* [AzerothCore](http://www.azerothcore.org): Fully Support for Wotlk , Limited for Classic and Legion.
+* [AzerothCore](http://www.azerothcore.org): Fully Support for Wrath of the Lich King (3.3.5a)
 
-* [CMangos](https://github.com/cmangos): From classic to cataclysm
+* [CMangos](https://github.com/cmangos): Support for multiple expansions
 
-* [Mangos](https://www.getmangos.eu/): From classic to cataclysm
+* [Mangos](https://www.getmangos.eu/): Support for multiple expansions
 
-* [TrinityCore](https://www.trinitycore.org): Currently Supports Wotlk & Legion
+* [TrinityCore](https://www.trinitycore.org): Support for multiple expansions
