@@ -1,5 +1,8 @@
 # Classic
 
+## Databases & Guides
+
+* [WoWhead Classic](https://classic.wowhead.com/)
 
 ## development
 
