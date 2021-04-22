@@ -1,5 +1,7 @@
 # Wrath of the lich king (WoW - Wotlk)
 
+## Index
+
 *   [Classes](wotlk-classes.md)
 *   [Factions](wotlk-factions.md)
 *   [In-game events](wotlk-in-game-events.md)
