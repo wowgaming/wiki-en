@@ -9,6 +9,8 @@
 
 **SpellEditor**: [DOWNLOAD](https://github.com/stoneharry/WoW-Spell-Editor)
 
+**Node-dbc-reader**: [DOWNLOAD](https://github.com/wowgaming/node-dbc-reader)
+
 ### Archived:
 
 **MyDbcEditor:** [DOWNLOAD](https://github.com/wowgaming/old-dbc-editors/releases/tag/1.0)
