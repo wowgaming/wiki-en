@@ -14,7 +14,7 @@
 ### Tools
 
 *   [Addons List](wotlk-addons-list.md)
-*   [Making a macro](making-a-macro.md)
+*   [Making a macro](wotlk-making-a-macro.md)
 
 ### Client
 
