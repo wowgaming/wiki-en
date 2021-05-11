@@ -1,4 +1,9 @@
-  
+---
+redirect_from:
+ - /wiki-en/making-a-macro
+ - /wiki-en/making-a-macro.html
+---
+
 *Much of this article was written by [Cogwheel](User:Cogwheel "wikilink") (WoWInterface user [Cogwheel](http://www.wowinterface.com/forums/member.php?s=fb1425bc23be92c345b36cb94dd82662&action=getinfo&userid=17646)).*
 
 This is an article on **making a macro**. A [macro](macro "wikilink") is a list of slash commands. Common slash commands include the following:
