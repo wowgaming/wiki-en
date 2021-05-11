@@ -1,5 +1,7 @@
 ---
 redirect_from:
+ - /making-a-macro
+ - /making-a-macro.html
  - /wiki-en/making-a-macro
  - /wiki-en/making-a-macro.html
 ---
